@@ -20,6 +20,16 @@
           "name": "MAXSTORE",
           "version": "v8.5.0",
           "downloadUrl": "https://example.com/downloads/a920/apk/maxstore-8.5.0.apk"
+        },
+        {
+          "name": "KeyInject",
+          "version": "KeyInject.apk",
+          "downloadUrl": "https://example.com/downloads/a920/apk/keyinject.apk"
+        },
+        {
+          "name": "NeptuneService",
+          "version": "NeptuneService_V3.10.01",
+          "downloadUrl": "https://example.com/downloads/a920/apk/neptune-service-v3.10.01.apk"
         }
       ],
       "firmware": [
@@ -69,6 +79,16 @@
           "name": "MAXSTORE",
           "version": "v8.5.0",
           "downloadUrl": "https://example.com/downloads/a80/apk/maxstore-8.5.0.apk"
+        },
+        {
+          "name": "KeyInject",
+          "version": "KeyInject.apk",
+          "downloadUrl": "https://example.com/downloads/a80/apk/keyinject.apk"
+        },
+        {
+          "name": "NeptuneService",
+          "version": "NeptuneService_V3.10.01",
+          "downloadUrl": "https://example.com/downloads/a80/apk/neptune-service-v3.10.01.apk"
         }
       ],
       "firmware": [
@@ -142,9 +162,9 @@
           "downloadUrl": "https://example.com/downloads/sk800/apk/keyinject.apk"
         },
         {
-          "name": "NeptuneService",
-          "version": "NeptuneService_V3.10.01",
-          "downloadUrl": "https://example.com/downloads/sk800/apk/neptune-service-v3.10.01.apk"
+          "name": "PDM",
+          "version": "3.04.02",
+          "downloadUrl": "https://example.com/downloads/sk800/apk/pdm-3.04.02.apk"
         },
         {
           "name": "EasyLink_Full",
@@ -201,6 +221,16 @@
           "name": "MAXSTORE",
           "version": "v8.5.0",
           "downloadUrl": "https://example.com/downloads/e800/apk/maxstore-8.5.0.apk"
+        },
+        {
+          "name": "KeyInject",
+          "version": "KeyInject.apk",
+          "downloadUrl": "https://example.com/downloads/e800/apk/keyinject.apk"
+        },
+        {
+          "name": "NeptuneService",
+          "version": "NeptuneService_V3.10.01",
+          "downloadUrl": "https://example.com/downloads/e800/apk/neptune-service-v3.10.01.apk"
         }
       ],
       "firmware": [
@@ -245,6 +275,16 @@
           "name": "MAXSTORE",
           "version": "v8.5.0",
           "downloadUrl": "https://example.com/downloads/a910/apk/maxstore-8.5.0.apk"
+        },
+        {
+          "name": "KeyInject",
+          "version": "KeyInject.apk",
+          "downloadUrl": "https://example.com/downloads/a910/apk/keyinject.apk"
+        },
+        {
+          "name": "NeptuneService",
+          "version": "NeptuneService_V3.10.01",
+          "downloadUrl": "https://example.com/downloads/a910/apk/neptune-service-v3.10.01.apk"
         }
       ],
       "firmware": [
@@ -294,6 +334,16 @@
           "name": "PDM",
           "version": "3.04.02",
           "downloadUrl": "https://example.com/downloads/e700/apk/pdm-3.04.02.apk"
+        },
+        {
+          "name": "KeyInject",
+          "version": "KeyInject.apk",
+          "downloadUrl": "https://example.com/downloads/e700/apk/keyinject.apk"
+        },
+        {
+          "name": "NeptuneService",
+          "version": "NeptuneService_V3.10.01",
+          "downloadUrl": "https://example.com/downloads/e700/apk/neptune-service-v3.10.01.apk"
         }
       ],
       "firmware": [
@@ -336,6 +386,16 @@
           "name": "PDM",
           "version": "3.04.02",
           "downloadUrl": "https://example.com/downloads/e600/apk/pdm-3.04.02.apk"
+        },
+        {
+          "name": "KeyInject",
+          "version": "KeyInject.apk",
+          "downloadUrl": "https://example.com/downloads/e600/apk/keyinject.apk"
+        },
+        {
+          "name": "NeptuneService",
+          "version": "NeptuneService_V3.10.01",
+          "downloadUrl": "https://example.com/downloads/e600/apk/neptune-service-v3.10.01.apk"
         }
       ],
       "firmware": [
@@ -368,6 +428,16 @@
           "name": "MAXSTORE",
           "version": "v8.5.0",
           "downloadUrl": "https://example.com/downloads/a50/apk/maxstore-8.5.0.apk"
+        },
+        {
+          "name": "KeyInject",
+          "version": "KeyInject.apk",
+          "downloadUrl": "https://example.com/downloads/a50/apk/keyinject.apk"
+        },
+        {
+          "name": "NeptuneService",
+          "version": "NeptuneService_V3.10.01",
+          "downloadUrl": "https://example.com/downloads/a50/apk/neptune-service-v3.10.01.apk"
         }
       ],
       "firmware": [
@@ -407,6 +477,16 @@
           "name": "MAXSTORE",
           "version": "v8.5.0",
           "downloadUrl": "https://example.com/downloads/a77/apk/maxstore-8.5.0.apk"
+        },
+        {
+          "name": "KeyInject",
+          "version": "KeyInject.apk",
+          "downloadUrl": "https://example.com/downloads/a77/apk/keyinject.apk"
+        },
+        {
+          "name": "NeptuneService",
+          "version": "NeptuneService_V3.10.01",
+          "downloadUrl": "https://example.com/downloads/a77/apk/neptune-service-v3.10.01.apk"
         }
       ],
       "firmware": [
@@ -446,6 +526,16 @@
           "name": "MAXSTORE",
           "version": "v8.5.0",
           "downloadUrl": "https://example.com/downloads/im30/apk/maxstore-8.5.0.apk"
+        },
+        {
+          "name": "KeyInject",
+          "version": "KeyInject.apk",
+          "downloadUrl": "https://example.com/downloads/im30/apk/keyinject.apk"
+        },
+        {
+          "name": "NeptuneService",
+          "version": "NeptuneService_V3.10.01",
+          "downloadUrl": "https://example.com/downloads/im30/apk/neptune-service-v3.10.01.apk"
         }
       ],
       "firmware": [
@@ -495,6 +585,11 @@
           "name": "PDM",
           "version": "3.04.02",
           "downloadUrl": "https://example.com/downloads/e500/apk/pdm-3.04.02.apk"
+        },
+        {
+          "name": "NeptuneService",
+          "version": "NeptuneService_V3.10.01",
+          "downloadUrl": "https://example.com/downloads/e500/apk/neptune-service-v3.10.01.apk"
         }
       ],
       "firmware": [
@@ -532,6 +627,16 @@
           "name": "MAXSTORE",
           "version": "v8.5.0",
           "downloadUrl": "https://example.com/downloads/a920pro/apk/maxstore-8.5.0.apk"
+        },
+        {
+          "name": "KeyInject",
+          "version": "KeyInject.apk",
+          "downloadUrl": "https://example.com/downloads/a920pro/apk/keyinject.apk"
+        },
+        {
+          "name": "NeptuneService",
+          "version": "NeptuneService_V3.10.01",
+          "downloadUrl": "https://example.com/downloads/a920pro/apk/neptune-service-v3.10.01.apk"
         }
       ],
       "firmware": [
