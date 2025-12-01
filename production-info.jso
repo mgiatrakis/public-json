@@ -1,0 +1,24 @@
+{
+  "a920pro":{
+    "name" : "A920Pro",
+    "enabled" : true,
+    "imgUrl" : "https://...",
+    "categories" : {
+      "apk" : {
+        "name" : "apkName",
+        "version" : "1.5",
+        "downloadUrl" : "https://..."
+      },
+      "firmware" : {
+        "name" : "firmwareName",
+        "version" : "11.5",
+        "downloadUrl" : "https://..."
+      },
+      "manual" : {
+        "name" : "manualName",
+        "version" : "1.0",
+        "downloadUrl" : "https://..."
+      }
+    }
+  }
+}
