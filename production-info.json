@@ -52,11 +52,9 @@
         }
       ]
     },
-    "keyInject": "KeyInject.apk",
     "keyTestMenu": "Key Test Menu(pass: 666666)",
-    "neptuneService": "NeptuneService_V3.10.01",
     "protocol": "IK(IL) Protocol / DUKPT / USB DEV (MICRO OTG to MINI USB)",
-    "manual": "A920 Operation Manual"
+    "eraseKeyInjection": "Method to erase key injection data"
   },
   "a80": {
     "name": "PAX A80",
@@ -116,11 +114,9 @@
         }
       ]
     },
-    "keyInject": "KeyInject.apk",
     "keyTestMenu": "Key Test Menu(pass: 666666)",
-    "neptuneService": "NeptuneService_V3.10.01",
     "protocol": "IK(IL) Protocol / DUKPT / USB DEV (MICRO OTG to MINI USB)",
-    "manual": "A80 Operation Manual"
+    "eraseKeyInjection": "Method to erase key injection data for A80"
   },
   "d200": {
     "name": "PAX D200",
@@ -143,11 +139,8 @@
         }
       ]
     },
-    "keyInject": null,
     "keyTestMenu": "Inside the menu of D200",
-    "neptuneService": null,
-    "protocol": "IK(IL) Protocol / DUKPT / USB HOST (MINI OTG (S80) to MICRO USB)",
-    "manual": null
+    "protocol": "IK(IL) Protocol / DUKPT / USB HOST (MINI OTG (S80) to MICRO USB)"
   },
   "sk800": {
     "name": "PAX SK800",
@@ -184,11 +177,9 @@
       ],
       "firmware": []
     },
-    "keyInject": "KeyInject.apk",
     "keyTestMenu": "Key Test Menu(pass: 666666)",
-    "neptuneService": "PDM-3.04.02",
     "protocol": "EL Protocol / DUKPT (TIK 1) / MICRO OTG to MINI USB",
-    "manual": "SK800 Operation Manual"
+    "eraseKeyInjection": "Method to erase key injection data for SK800"
   },
   "e800": {
     "name": "PAX E800",
@@ -248,11 +239,9 @@
         }
       ]
     },
-    "keyInject": "KeyInject.apk",
     "keyTestMenu": "Key Test Menu(pass: 666666)",
-    "neptuneService": "NeptuneService_V3.10.01",
     "protocol": "EL Protocol / DUKPT (TIK 1) / USB DEV (S80) / MICRO OTG to MINI USB",
-    "manual": "E800 Operation Manual - Q20->System config->USB Device mode. CDC ECM MODE"
+    "eraseKeyInjection": "Method to erase key injection data for E800"
   },
   "a910": {
     "name": "PAX A910",
@@ -302,11 +291,9 @@
         }
       ]
     },
-    "keyInject": "KeyInject.apk",
     "keyTestMenu": "Key Test Menu(pass: 666666)",
-    "neptuneService": "NeptuneService_V3.10.01",
     "protocol": "IK(IL) Protocol / DUKPT / USB DEV (TYPE C OTG to MINI USB)",
-    "manual": "A910 Operation Manual"
+    "eraseKeyInjection": "Method to erase key injection data for A910"
   },
   "e700": {
     "name": "PAX E700",
@@ -350,15 +337,12 @@
         {
           "name": "PayDroid",
           "version": "TBD",
-          "downloadUrl": null
+          "downloadUrl": "https://example.com/downloads/e700/firmware/paydroid-tbd.paydroid"
         }
       ]
     },
-    "keyInject": "KeyInject.apk",
     "keyTestMenu": "N/A",
-    "neptuneService": "NeptuneService_V3.10.01",
-    "protocol": "N/A",
-    "manual": null
+    "protocol": "N/A"
   },
   "e600": {
     "name": "PAX E600",
@@ -402,15 +386,12 @@
         {
           "name": "PayDroid",
           "version": "TBD",
-          "downloadUrl": null
+          "downloadUrl": "https://example.com/downloads/e600/firmware/paydroid-tbd.paydroid"
         }
       ]
     },
-    "keyInject": "KeyInject.apk",
     "keyTestMenu": "N/A",
-    "neptuneService": "NeptuneService_V3.10.01",
-    "protocol": "N/A",
-    "manual": null
+    "protocol": "N/A"
   },
   "a50": {
     "name": "PAX A50",
@@ -455,11 +436,9 @@
         }
       ]
     },
-    "keyInject": "KeyInject.apk",
     "keyTestMenu": "Key Test Menu(pass: 666666)",
-    "neptuneService": "NeptuneService_V3.10.01",
     "protocol": "IK(IL) Protocol / DUKPT / USB DEV (TYPE C OTG to MINI USB)",
-    "manual": "A50 Operation Manual"
+    "eraseKeyInjection": "Method to erase key injection data for A50"
   },
   "a77": {
     "name": "PAX A77",
@@ -504,11 +483,9 @@
         }
       ]
     },
-    "keyInject": "KeyInject.apk",
     "keyTestMenu": "Key Test Menu(pass: 666666)",
-    "neptuneService": "NeptuneService_V3.10.01",
     "protocol": "IK(IL) Protocol / DUKPT / USB DEV (TYPE C OTG to MINI USB)",
-    "manual": "A77 Operation Manual"
+    "eraseKeyInjection": "Method to erase key injection data for A77"
   },
   "im30": {
     "name": "IM30",
@@ -553,11 +530,9 @@
         }
       ]
     },
-    "keyInject": "KeyInject.apk",
     "keyTestMenu": "Key Test Menu(pass: 666666)",
-    "neptuneService": "NeptuneService_V3.10.01",
     "protocol": "IK(IL) Protocol / DUKPT / USB DEV (TYPE C OTG to MINI USB)",
-    "manual": "IM30 Operation Manual"
+    "eraseKeyInjection": "Method to erase key injection data for IM30"
   },
   "e500": {
     "name": "PAX E500",
@@ -600,11 +575,8 @@
         }
       ]
     },
-    "keyInject": null,
     "keyTestMenu": "N/A",
-    "neptuneService": "NeptuneService_V3.10.01",
-    "protocol": "EL Protocol / DUKPT (TIK 1) / MINI USB",
-    "manual": null
+    "protocol": "EL Protocol / DUKPT (TIK 1) / MINI USB"
   },
   "a920pro": {
     "name": "PAX A920 PRO",
@@ -659,11 +631,9 @@
         }
       ]
     },
-    "keyInject": "KeyInject.apk",
     "keyTestMenu": "Key Test Menu(pass: 666666)",
-    "neptuneService": "NeptuneService_V3.10.01",
     "protocol": "IK(IL) Protocol / DUKPT / USB DEV (TYPE C OTG to MINI USB)",
-    "manual": "A920 Pro Operation Manual"
+    "eraseKeyInjection": "Method to erase key injection data for A920 Pro"
   },
   "sp20": {
     "name": "SP20",
@@ -703,17 +673,13 @@
         }
       ]
     },
-    "keyInject": null,
     "keyTestMenu": "Inside the menu of SP20",
-    "neptuneService": null,
-    "protocol": "IK(IL) Protocol / DUKPT / USB HOST (MINI OTG (S80) to MICRO USB)",
-    "manual": "SP20 Manual Setup"
+    "protocol": "IK(IL) Protocol / DUKPT / USB HOST (MINI OTG (S80) to MICRO USB)"
   },
   "d188": {
     "name": "D188",
     "enabled": true,
     "imgUrl": "https://example.com/images/d188.png",
-    "description": null,
     "categories": {
       "apk": [
         {
@@ -747,17 +713,13 @@
         }
       ]
     },
-    "keyInject": null,
     "keyTestMenu": "Inside the menu of D188",
-    "neptuneService": null,
-    "protocol": "IK(IL) Protocol / DUKPT / USB HOST (MINI OTG (S80) to USB C)",
-    "manual": "D188 Manual Setup"
+    "protocol": "IK(IL) Protocol / DUKPT / USB HOST (MINI OTG (S80) to USB C)"
   },
   "sk700": {
     "name": "SK700",
     "enabled": true,
     "imgUrl": "https://example.com/images/sk700.png",
-    "description": null,
     "categories": {
       "apk": [
         {
@@ -767,7 +729,6 @@
         },
         {
           "name": "Cardlink Q10A IM30",
-          "version": null,
           "downloadUrl": "https://example.com/downloads/sk700/apk/cardlink-q10a-im30.apk"
         },
         {
@@ -801,11 +762,8 @@
         }
       ]
     },
-    "keyInject": "KeyInject New Version.apk",
     "keyTestMenu": "Key Test Menu(pass: 666666)",
-    "neptuneService": "PDMPlay-V1.01.01-505",
     "protocol": "USB Type A σε USB Type A -> που θα καταλήγει στο USB OTG - Mini USB του S80.",
-    "manual": "SK700 Manual Setup"
+    "eraseKeyInjection": "Method to erase key injection data for SK700"
   }
 }
-
