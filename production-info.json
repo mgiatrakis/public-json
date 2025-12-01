@@ -1,177 +1,532 @@
 {
-  "a920pro": {
-    "name": "A920Pro",
-    "enabled": true,
-    "imgUrl": "https://example.com/images/a920pro.png",
-    "categories": {
-      "cardlinkApp": [
-        {
-          "name": "A920Pro Application",
-          "version": "2.5.0",
-          "downloadUrl": "https://example.com/downloads/a920pro/apk/v2.5.0/app.apk"
-        },
-        {
-          "name": "A920Pro Application",
-          "version": "2.4.1",
-          "downloadUrl": "https://example.com/downloads/a920pro/apk/v2.4.1/app.apk"
-        },
-        {
-          "name": "A920Pro Application",
-          "version": "2.4.0",
-          "downloadUrl": "https://example.com/downloads/a920pro/apk/v2.4.0/app.apk"
-        },
-        {
-          "name": "A920Pro Application",
-          "version": "2.3.0",
-          "downloadUrl": "https://example.com/downloads/a920pro/apk/v2.3.0/app.apk"
-        }
-      ],
+  "configurations": [
+    {
+      "id": 1,
+      "model": "PAX A920",
+      "description": "PayDroid / 4G + WiFi + Bluetooth",
       "firmware": [
+        "PayDroid_7.1.2_Aquarius_V02.5.40_20241008.paydroid"
+      ],
+      "apks": [
         {
-          "name": "A920Pro Firmware",
-          "version": "11.5.2",
-          "downloadUrl": "https://example.com/downloads/a920pro/firmware/v11.5.2/firmware.bin"
+          "name": "Worldline",
+          "version": "8.4.7****"
         },
         {
-          "name": "A920Pro Firmware",
-          "version": "11.5.1",
-          "downloadUrl": "https://example.com/downloads/a920pro/firmware/v11.5.1/firmware.bin"
+          "name": "Cardlink POSsible",
+          "version": "8.4.7**"
         },
         {
-          "name": "A920Pro Firmware",
-          "version": "11.5.0",
-          "downloadUrl": "https://example.com/downloads/a920pro/firmware/v11.5.0/firmware.bin"
+          "name": "MAXSTORE",
+          "version": "v8.5.0"
         }
       ],
-      "manual": [
-        {
-          "name": "A920Pro User Manual",
-          "version": "3.0",
-          "downloadUrl": "https://example.com/downloads/a920pro/manual/v3.0/manual.pdf"
-        },
-        {
-          "name": "A920Pro User Manual",
-          "version": "2.5",
-          "downloadUrl": "https://example.com/downloads/a920pro/manual/v2.5/manual.pdf"
-        }
-      ]
-    }
-  },
-  "a920": {
-    "name": "A920",
-    "enabled": true,
-    "imgUrl": "https://example.com/images/a920.png",
-    "categories": {
-      "apk": [
-        {
-          "name": "A920 Application",
-          "version": "1.8.0",
-          "downloadUrl": "https://example.com/downloads/a920/apk/v1.8.0/app.apk"
-        },
-        {
-          "name": "A920 Application",
-          "version": "1.7.5",
-          "downloadUrl": "https://example.com/downloads/a920/apk/v1.7.5/app.apk"
-        },
-        {
-          "name": "A920 Application",
-          "version": "1.7.0",
-          "downloadUrl": "https://example.com/downloads/a920/apk/v1.7.0/app.apk"
-        }
-      ],
+      "keyInject": "KeyInject.apk",
+      "keyTestMenu": "Key Test Menu(pass: 666666)",
+      "neptuneService": "NeptuneService_V3.10.01",
+      "protocol": "IK(IL) Protocol / DUKPT / USB DEV (MICRO OTG to MINI USB)",
+      "manual": "A920 Operation Manual"
+    },
+    {
+      "id": 2,
+      "model": "PAX A920",
+      "description": "PayDroid / 4G + WiFi + Bluetooth",
       "firmware": [
+        "PayDroid_5.1.1_Aquarius_V02.3.47_20240730.paydroid"
+      ],
+      "apks": [
         {
-          "name": "A920 Firmware",
-          "version": "10.2.1",
-          "downloadUrl": "https://example.com/downloads/a920/firmware/v10.2.1/firmware.bin"
+          "name": "Worldline",
+          "version": "8.4.7****"
         },
         {
-          "name": "A920 Firmware",
-          "version": "10.2.0",
-          "downloadUrl": "https://example.com/downloads/a920/firmware/v10.2.0/firmware.bin"
+          "name": "Cardlink POSsible",
+          "version": "8.4.7**"
         },
         {
-          "name": "A920 Firmware",
-          "version": "10.1.5",
-          "downloadUrl": "https://example.com/downloads/a920/firmware/v10.1.5/firmware.bin"
+          "name": "MAXSTORE",
+          "version": "v8.5.0"
         }
       ],
-      "manual": [
-        {
-          "name": "A920 User Manual",
-          "version": "2.0",
-          "downloadUrl": "https://example.com/downloads/a920/manual/v2.0/manual.pdf"
-        },
-        {
-          "name": "A920 User Manual",
-          "version": "1.5",
-          "downloadUrl": "https://example.com/downloads/a920/manual/v1.5/manual.pdf"
-        }
-      ]
-    }
-  },
-  "im30": {
-    "name": "IM30",
-    "enabled": true,
-    "imgUrl": "https://example.com/images/im30.png",
-    "categories": {
-      "apk": [
-        {
-          "name": "IM30 Unattended Application",
-          "version": "3.2.0",
-          "downloadUrl": "https://example.com/downloads/im30/apk/v3.2.0/app.apk"
-        },
-        {
-          "name": "IM30 Unattended Application",
-          "version": "3.1.5",
-          "downloadUrl": "https://example.com/downloads/im30/apk/v3.1.5/app.apk"
-        },
-        {
-          "name": "IM30 Unattended Application",
-          "version": "3.1.0",
-          "downloadUrl": "https://example.com/downloads/im30/apk/v3.1.0/app.apk"
-        },
-        {
-          "name": "IM30 Unattended Application",
-          "version": "3.0.0",
-          "downloadUrl": "https://example.com/downloads/im30/apk/v3.0.0/app.apk"
-        }
-      ],
+      "keyInject": "KeyInject.apk",
+      "keyTestMenu": "Key Test Menu(pass: 666666)",
+      "neptuneService": "NeptuneService_V3.10.01",
+      "protocol": "IK(IL) Protocol / DUKPT / USB DEV (MICRO OTG to MINI USB)",
+      "manual": "A920 Operation Manual"
+    },
+    {
+      "id": 3,
+      "model": "PAX A80",
+      "description": "PayDroid / 4G/3G + Ethernet + dial",
       "firmware": [
+        "PX7A_A80_PayDroid_6.0.1_Taurus_V05.1.30_20240523_Release.paydroid",
+        "PX7A_IM30_A80_PayDroid_7.1.1_Taurus_V05.3.36_20240228_Release.paydroid",
+        "PayDroid_10.0_Cedar_V17.2.17_20240204_Release.paydroid"
+      ],
+      "apks": [
         {
-          "name": "IM30 Firmware",
-          "version": "12.3.1",
-          "downloadUrl": "https://example.com/downloads/im30/firmware/v12.3.1/firmware.bin"
+          "name": "Worldline",
+          "version": "8.4.7****"
         },
         {
-          "name": "IM30 Firmware",
-          "version": "12.3.0",
-          "downloadUrl": "https://example.com/downloads/im30/firmware/v12.3.0/firmware.bin"
+          "name": "Cardlink POSsible",
+          "version": "8.4.7**"
         },
         {
-          "name": "IM30 Firmware",
-          "version": "12.2.5",
-          "downloadUrl": "https://example.com/downloads/im30/firmware/v12.2.5/firmware.bin"
+          "name": "MAXSTORE",
+          "version": "v8.5.0"
         }
       ],
-      "manual": [
+      "keyInject": "KeyInject.apk",
+      "keyTestMenu": "Key Test Menu(pass: 666666)",
+      "neptuneService": "NeptuneService_V3.10.01",
+      "protocol": "IK(IL) Protocol / DUKPT / USB DEV (MICRO OTG to MINI USB)",
+      "manual": "A80 Operation Manual"
+    },
+    {
+      "id": 4,
+      "model": "PAX D200",
+      "description": "Prolin / Bluetooth",
+      "firmware": [
+        "Prolin 2.4.173 (V9534R)"
+      ],
+      "apks": [
         {
-          "name": "IM30 User Manual",
-          "version": "4.0",
-          "downloadUrl": "https://example.com/downloads/im30/manual/v4.0/manual.pdf"
-        },
-        {
-          "name": "IM30 User Manual",
-          "version": "3.5",
-          "downloadUrl": "https://example.com/downloads/im30/manual/v3.5/manual.pdf"
-        },
-        {
-          "name": "IM30 User Manual",
-          "version": "3.0",
-          "downloadUrl": "https://example.com/downloads/im30/manual/v3.0/manual.pdf"
+          "name": "Easylink",
+          "version": "2.04.00W"
         }
-      ]
+      ],
+      "keyInject": null,
+      "keyTestMenu": "Inside the menu of D200",
+      "neptuneService": null,
+      "protocol": "IK(IL) Protocol / DUKPT / USB HOST (MINI OTG (S80) to MICRO USB)",
+      "manual": null
+    },
+    {
+      "id": 5,
+      "model": "PAX SK800",
+      "description": "PayDroid + Prolin / 4G + Bluetooth + WiFi + Fingerprint",
+      "firmware": [],
+      "apks": [
+        {
+          "name": "KeyInject",
+          "version": "KeyInject.apk"
+        },
+        {
+          "name": "NeptuneService",
+          "version": "NeptuneService_V3.10.01"
+        },
+        {
+          "name": "EasyLink_Full",
+          "version": "v2.04.00W_20250110_sign"
+        },
+        {
+          "name": "MAXSTORE",
+          "version": "v8.5.0"
+        },
+        {
+          "name": "prolin-pelican",
+          "version": "2.7.153.12097R_SIG"
+        }
+      ],
+      "keyInject": "KeyInject.apk",
+      "keyTestMenu": "Key Test Menu(pass: 666666)",
+      "neptuneService": "PDM-3.04.02",
+      "protocol": "EL Protocol / DUKPT (TIK 1) / MICRO OTG to MINI USB",
+      "manual": "SK800 Operation Manual"
+    },
+    {
+      "id": 6,
+      "model": "PAX SK800",
+      "description": "PayDroid + Prolin/ 4G + Bluetooth + WiFi",
+      "firmware": [],
+      "apks": [
+        {
+          "name": "KeyInject",
+          "version": "KeyInject.apk"
+        },
+        {
+          "name": "EasyLink_Full",
+          "version": "v2.04.00W_20250110_sign"
+        },
+        {
+          "name": "NeptuneService",
+          "version": "NeptuneService_V3.10.01"
+        },
+        {
+          "name": "MAXSTORE",
+          "version": "v8.5.0"
+        },
+        {
+          "name": "prolin-pelican",
+          "version": "2.7.153.12097R_SIG"
+        }
+      ],
+      "keyInject": "KeyInject.apk",
+      "keyTestMenu": "Key Test Menu(pass: 666666)",
+      "neptuneService": "PDM-3.04.02",
+      "protocol": "EL Protocol / DUKPT (TIK 1) / MICRO OTG to MINI USB",
+      "manual": "SK800 Operation Manual"
+    },
+    {
+      "id": 7,
+      "model": "PAX SK800",
+      "description": "PayDroid + Prolin/ 4G",
+      "firmware": [],
+      "apks": [
+        {
+          "name": "KeyInject",
+          "version": "KeyInject.apk"
+        },
+        {
+          "name": "EasyLink_Full",
+          "version": "v2.04.00W_20250110_sign"
+        },
+        {
+          "name": "NeptuneService",
+          "version": "NeptuneService_V3.10.01"
+        },
+        {
+          "name": "MAXSTORE",
+          "version": "v8.5.0"
+        },
+        {
+          "name": "prolin-pelican",
+          "version": "2.7.153.12097R_SIG"
+        }
+      ],
+      "keyInject": "KeyInject.apk",
+      "keyTestMenu": "Key Test Menu(pass: 666666)",
+      "neptuneService": "PDM-3.04.02",
+      "protocol": "EL Protocol / DUKPT (TIK 1) / MICRO OTG to MINI USB",
+      "manual": "SK800 Operation Manual"
+    },
+    {
+      "id": 8,
+      "model": "PAX E800",
+      "description": "PayDroid + Prolin / 4G + WiFi + Ethernet + Bluetooth / Dual Screen + Internal Battery",
+      "firmware": [
+        "PayDroid 6.0.1 Gemini V06.1.18 20210719"
+      ],
+      "apks": [
+        {
+          "name": "Cardlink POSsible",
+          "version": "8.4.7**"
+        },
+        {
+          "name": "prolin-pelican",
+          "version": "2.7.111.10405R_SIG"
+        },
+        {
+          "name": "PDM",
+          "version": "3.04.02"
+        },
+        {
+          "name": "Easylink",
+          "version": "2.04.00W"
+        },
+        {
+          "name": "MAXSTORE",
+          "version": "v8.5.0"
+        }
+      ],
+      "keyInject": "KeyInject.apk",
+      "keyTestMenu": "Key Test Menu(pass: 666666)",
+      "neptuneService": "NeptuneService_V3.10.01",
+      "protocol": "EL Protocol / DUKPT (TIK 1) / USB DEV (S80) / MICRO OTG to MINI USB",
+      "manual": "E800 Operation Manual - Q20->System config->USB Device mode. CDC ECM MODE"
+    },
+    {
+      "id": 9,
+      "model": "PAX A910",
+      "description": "PayDroid / 4G + WiFi + Bluetooth",
+      "firmware": [
+        "A910_PayDroid_6.0_Leo_V07.1.31_20240710.paydroid"
+      ],
+      "apks": [
+        {
+          "name": "Cardlink POSsible",
+          "version": "8.4.7**"
+        },
+        {
+          "name": "Worldline",
+          "version": "8.4.7****"
+        },
+        {
+          "name": "MAXSTORE",
+          "version": "v8.5.0"
+        }
+      ],
+      "keyInject": "KeyInject.apk",
+      "keyTestMenu": "Key Test Menu(pass: 666666)",
+      "neptuneService": "NeptuneService_V3.10.01",
+      "protocol": "IK(IL) Protocol / DUKPT / USB DEV (TYPE C OTG to MINI USB)",
+      "manual": "A910 Operation Manual"
+    },
+    {
+      "id": 10,
+      "model": "PAX E700",
+      "description": "PayDroid + Prolin / 4G + 5G + WiFi + Bluetooth / Internal Battery",
+      "firmware": [
+        "TBD"
+      ],
+      "apks": [
+        {
+          "name": "Cardlink POSsible",
+          "version": "8.4.7**"
+        },
+        {
+          "name": "MAXSTORE",
+          "version": "v8.0.5"
+        },
+        {
+          "name": "Easylink",
+          "version": "2.04.00W"
+        },
+        {
+          "name": "PDM",
+          "version": "3.04.02"
+        }
+      ],
+      "keyInject": "KeyInject.apk",
+      "keyTestMenu": "N/A",
+      "neptuneService": "NeptuneService_V3.10.01",
+      "protocol": "N/A",
+      "manual": null
+    },
+    {
+      "id": 11,
+      "model": "PAX E600",
+      "description": "PayDroid + Prolin / 4G + WiFi + Bluetooth / Internal Battery",
+      "firmware": [
+        "TBD"
+      ],
+      "apks": [
+        {
+          "name": "Cardlink POSsible",
+          "version": "8.4.7**"
+        },
+        {
+          "name": "MAXSTORE",
+          "version": "v8.5.0"
+        },
+        {
+          "name": "Easylink",
+          "version": "2.04.00W"
+        },
+        {
+          "name": "PDM",
+          "version": "3.04.02"
+        }
+      ],
+      "keyInject": "KeyInject.apk",
+      "keyTestMenu": "N/A",
+      "neptuneService": "NeptuneService_V3.10.01",
+      "protocol": "N/A",
+      "manual": null
+    },
+    {
+      "id": 12,
+      "model": "PAX A50",
+      "description": "PayDroid / 4G + WiFi + Bluetooth",
+      "firmware": [
+        "PayDroid 8.1.0 (Sagittarius) V11.1.52_20230808"
+      ],
+      "apks": [
+        {
+          "name": "Cardlink POSsible",
+          "version": "8.4.7**"
+        },
+        {
+          "name": "MAXSTORE",
+          "version": "v8.5.0"
+        }
+      ],
+      "keyInject": "KeyInject.apk",
+      "keyTestMenu": "Key Test Menu(pass: 666666)",
+      "neptuneService": "NeptuneService_V3.10.01",
+      "protocol": "IK(IL) Protocol / DUKPT / USB DEV (TYPE C OTG to MINI USB)",
+      "manual": "A50 Operation Manual"
+    },
+    {
+      "id": 13,
+      "model": "PAX A77",
+      "description": "PayDroid / 4G + WiFi + Bluetooth",
+      "firmware": [
+        "PayDroid_8.1.0_Sagittarius_V11.1.49_20230530"
+      ],
+      "apks": [
+        {
+          "name": "Cardlink POSsible",
+          "version": "8.4.7**"
+        },
+        {
+          "name": "MAXSTORE",
+          "version": "v8.5.0"
+        }
+      ],
+      "keyInject": "KeyInject.apk",
+      "keyTestMenu": "Key Test Menu(pass: 666666)",
+      "neptuneService": "NeptuneService_V3.10.01",
+      "protocol": "IK(IL) Protocol / DUKPT / USB DEV (TYPE C OTG to MINI USB)",
+      "manual": "A77 Operation Manual"
+    },
+    {
+      "id": 14,
+      "model": "IM30",
+      "description": "PayDroid / 4G + WiFi + Bluetooth + IP",
+      "firmware": [
+        "IM30_A80_PayDroid_7.1.1_Taurus_V05.3.36_20240228_Release"
+      ],
+      "apks": [
+        {
+          "name": "Cardlink POSsible",
+          "version": "8.4.7**"
+        },
+        {
+          "name": "MAXSTORE",
+          "version": "v8.5.0"
+        }
+      ],
+      "keyInject": "KeyInject.apk",
+      "keyTestMenu": "Key Test Menu(pass: 666666)",
+      "neptuneService": "NeptuneService_V3.10.01",
+      "protocol": "IK(IL) Protocol / DUKPT / USB DEV (TYPE C OTG to MINI USB)",
+      "manual": "IM30 Operation Manual"
+    },
+    {
+      "id": 16,
+      "model": "PAX E500",
+      "description": "PayDroid + Prolin / 4G + WiFi + Bluetooth / Internal Battery",
+      "firmware": [
+        "PayDroid 6.0.1 (Taurus) V05.1.7_20200601"
+      ],
+      "apks": [
+        {
+          "name": "Cardlink POSsible",
+          "version": "8.4.7**"
+        },
+        {
+          "name": "MAXSTORE",
+          "version": "v8.5.0"
+        },
+        {
+          "name": "Easylink",
+          "version": "2.04.00W"
+        },
+        {
+          "name": "PDM",
+          "version": "3.04.02"
+        }
+      ],
+      "keyInject": null,
+      "keyTestMenu": "N/A",
+      "neptuneService": "NeptuneService_V3.10.01",
+      "protocol": "EL Protocol / DUKPT (TIK 1) / MINI USB",
+      "manual": null
+    },
+    {
+      "id": 17,
+      "model": "PAX A920 PRO",
+      "description": "PayDroid / 4G + WiFi + Bluetooth",
+      "firmware": [
+        "PayDroid_8.1.0_Sagittarius_V11.1.68_20250114.paydroid",
+        "PayDroid_10.0.0_Sagittarius_V11.1.34_20250120.paydroid***"
+      ],
+      "apks": [
+        {
+          "name": "Worldline",
+          "version": "8.4.7****"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "8.4.7**"
+        },
+        {
+          "name": "MAXSTORE",
+          "version": "v8.5.0"
+        }
+      ],
+      "keyInject": "KeyInject.apk",
+      "keyTestMenu": "Key Test Menu(pass: 666666)",
+      "neptuneService": "NeptuneService_V3.10.01",
+      "protocol": "IK(IL) Protocol / DUKPT / USB DEV (TYPE C OTG to MINI USB)",
+      "manual": "A920 Pro Operation Manual"
+    },
+    {
+      "id": 19,
+      "model": "SP20",
+      "description": "PIN PAD",
+      "firmware": [
+        "SP20_Monitor_Release_20210425(V4.12)_SIG.bin",
+        "EasyLink_Lite_v1.13.07W_SP20V4_NO_JCB_PURE_20240207_sign.bin",
+        "west&greek_8_20211230.bin"
+      ],
+      "apks": [
+        {
+          "name": "Configuration Cardlink POSsible",
+          "version": "v5.3.0+"
+        }
+      ],
+      "keyInject": null,
+      "keyTestMenu": "Inside the menu of SP20",
+      "neptuneService": null,
+      "protocol": "IK(IL) Protocol / DUKPT / USB HOST (MINI OTG (S80) to MICRO USB)",
+      "manual": "SP20 Manual Setup"
+    },
+    {
+      "id": 20,
+      "model": "D188",
+      "description": null,
+      "firmware": [
+        "EasyLink_Lite_v1.13.07W_D188_20240207_sign.bin",
+        "D188_MH1903_Monitor_Release_20230726(V1.18)_SIG.bin",
+        "west&greek_8_20211230.bin"
+      ],
+      "apks": [
+        {
+          "name": "Configuration Cardlink POSsible",
+          "version": "v5.3.0+"
+        }
+      ],
+      "keyInject": null,
+      "keyTestMenu": "Inside the menu of D188",
+      "neptuneService": null,
+      "protocol": "IK(IL) Protocol / DUKPT / USB HOST (MINI OTG (S80) to USB C)",
+      "manual": "D188 Manual Setup"
+    },
+    {
+      "id": 21,
+      "model": "SK700",
+      "description": null,
+      "firmware": [
+        "SKEA_PayDroid_10.0.0_Acacia_V13.1.12_20230625",
+        "IM30_A80_PayDroid_7.1.1_Taurus_V05.3.36_20240228_Release"
+      ],
+      "apks": [
+        {
+          "name": "Cardlink POSsible",
+          "version": "8.4.7**"
+        },
+        {
+          "name": "Cardlink Q10A IM30",
+          "version": null
+        },
+        {
+          "name": "KeyInject New Version",
+          "version": "apk"
+        },
+        {
+          "name": "PDMPlay",
+          "version": "V1.01.01-505"
+        }
+      ],
+      "keyInject": "KeyInject New Version.apk",
+      "keyTestMenu": "Key Test Menu(pass: 666666)",
+      "neptuneService": "PDMPlay-V1.01.01-505",
+      "protocol": "USB Type A σε USB Type A -> που θα καταλήγει στο USB OTG - Mini USB του S80.",
+      "manual": "SK700 Manual Setup"
     }
-  }
+  ]
 }
 
