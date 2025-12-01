@@ -1,23 +1,67 @@
 {
-  "a920pro":{
-    "name" : "A920Pro",
-    "enabled" : true,
-    "imgUrl" : "https://...",
-    "categories" : {
-      "apk" : {
-        "name" : "apkName",
-        "version" : "1.5",
-        "downloadUrl" : "https://..."
+  "a920pro": {
+    "name": "A920Pro",
+    "enabled": true,
+    "imgUrl": "https://...",
+    "categories": {
+      "apk": {
+        "name": "apkName",
+        "version": "1.5",
+        "downloadUrl": "https://..."
       },
-      "firmware" : {
-        "name" : "firmwareName",
-        "version" : "11.5",
-        "downloadUrl" : "https://..."
+      "firmware": {
+        "name": "firmwareName",
+        "version": "11.5",
+        "downloadUrl": "https://..."
       },
-      "manual" : {
-        "name" : "manualName",
-        "version" : "1.0",
-        "downloadUrl" : "https://..."
+      "manual": {
+        "name": "manualName",
+        "version": "1.0",
+        "downloadUrl": "https://..."
+      }
+    }
+  },
+  "a920": {
+    "name": "A920",
+    "enabled": true,
+    "imgUrl": "https://...",
+    "categories": {
+      "apk": {
+        "name": "apkNameA920",
+        "version": "1.0",
+        "downloadUrl": "https://..."
+      },
+      "firmware": {
+        "name": "firmwareA920",
+        "version": "10.0",
+        "downloadUrl": "https://..."
+      },
+      "manual": {
+        "name": "manualA920",
+        "version": "1.0",
+        "downloadUrl": "https://..."
+      }
+    }
+  },
+  "im30": {
+    "name": "IM30",
+    "enabled": true,
+    "imgUrl": "https://...",
+    "categories": {
+      "apk": {
+        "name": "apkNameIM30",
+        "version": "2.0",
+        "downloadUrl": "https://..."
+      },
+      "firmware": {
+        "name": "firmwareIM30",
+        "version": "12.0",
+        "downloadUrl": "https://..."
+      },
+      "manual": {
+        "name": "manualIM30",
+        "version": "1.0",
+        "downloadUrl": "https://..."
       }
     }
   }
