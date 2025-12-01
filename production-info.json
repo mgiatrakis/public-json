@@ -4,7 +4,7 @@
     "enabled": true,
     "imgUrl": "https://example.com/images/a920pro.png",
     "categories": {
-      "apk": [
+      "cardlinkApp": [
         {
           "name": "A920Pro Application",
           "version": "2.5.0",
