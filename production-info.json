@@ -1,3 +1,8 @@
+code
+JSON
+download
+content_copy
+expand_less
 {
   "a920": {
     "name": "PAX A920",
@@ -7,134 +12,9 @@
     "categories": {
       "apk": [
         {
-          "name": "Worldline",
-          "version": "8.4.5",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1wDU1KSYTpY0jpree277gnCm6ie3esPg6"
-        },
-        {
-          "name": "Worldline",
-          "version": "8.2.7",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1mFUUqHblehJDL7jf26QNzpwByMQ0PDhi"
-        },
-        {
-          "name": "Worldline",
-          "version": "7.5.5",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1SMTAYbZz7TjpiKOCL7_Ltn6syWwBkTOM"
-        },
-        {
-          "name": "Worldline",
-          "version": "7.5.2",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1yxXti7EXYPDKOS_DOkZdj0clTDcyEUMv"
-        },
-        {
-          "name": "Worldline",
-          "version": "7.4.2",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1CkpTG5PAL1GYAyvzMtblMKyRmdI1YFrJ"
-        },
-        {
-          "name": "Worldline",
-          "version": "7.2.5",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1LM72TBkpRKRLFLje__nZaPul-iFdhDqS"
-        },
-        {
-          "name": "Worldline",
-          "version": "7.2.2",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1Uuk9T7CrJdpzEKCAjswQ5zh7X0vw6di9"
-        },
-        {
-          "name": "Worldline",
-          "version": "7.1.7",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=16EKOXIFr_-uAr8g-JsX6RvI4aC79hfcy"
-        },
-        {
-          "name": "Worldline",
-          "version": "7.0.4",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1uOUj-bhPgPKwr_dhhvyeRdxMujlAWTMj"
-        },
-        {
-          "name": "Worldline",
-          "version": "7.0.3",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=14xTtqHZ6dyJUik58sZKV3Kn9dQMeZmgO"
-        },
-        {
-          "name": "Worldline",
-          "version": "6.4.0",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1Ct8Mic-UBvA-gBztSw-2f4mFt3B7aAj8"
-        },
-        {
-          "name": "Worldline",
-          "version": "6.3.4",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1NQf5N0AbGui3OCL-SoadNuy_gr1Hmn6_"
-        },
-        {
-          "name": "Worldline",
-          "version": "6.3.3",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1cXjTJFtlilDqvm0WD88-cp-osMClc5l6"
-        },
-        {
-          "name": "Worldline",
-          "version": "8.4.7",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1uYjdDeVJR1xyjBaGQKely1BfV-viFj1K"
-        },
-        {
           "name": "Cardlink POSsible",
-          "version": "8.4.5",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1yknTfeFQfS02rFEKWwZFCpP6s3Kvbfyy"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "8.2.7",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1wDU1KSYTpY0jpree277gnCm6ie3esPg6"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.5.5",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1a6ZdCEF48u9mNTAjkH3FW3gmOwdOvkmy"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.5.2",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1VG2PSsq3X54-la13OgwXLJnj7puYTCff"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.4.2",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1pcaXUlg0B_Obb_8Ni-S2IRSyd-aFYRKU"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.2.5",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1IwFtOCot2IINRnB4wUoyPvJVKR7Ly4Jh"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.2.2",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=17U6OrDBWXWUwvYnrbwlp-jR63BJsOn0i"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.1.7",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1ndo5H4SRWUTw8HdHS_t9V5U-x_zCOf77"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.0.4",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1PLF5PrOlZ5NW2IzsqF8LlPTZMO2Ou9uV"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.0.3",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1WS820AJ3rjP5dzElg3nRU1KWhNzDx1oQ"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "6.3.4",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1hKHe5RQTqZ3eX4qIpJR34Re30ViQzozB"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "6.3.3",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1aLTLZS1cDHQOwog7M-mEiHveXvGPxm90"
+          "version": "4.3.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1rh8UPlNjnxpvAyy49b5TvNSqHt6txJE7"
         },
         {
           "name": "Cardlink POSsible",
@@ -143,8 +23,128 @@
         },
         {
           "name": "Cardlink POSsible",
-          "version": "4.3.2",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1rh8UPlNjnxpvAyy49b5TvNSqHt6txJE7"
+          "version": "6.3.3",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1aLTLZS1cDHQOwog7M-mEiHveXvGPxm90"
+        },
+        {
+          "name": "Worldline",
+          "version": "6.3.3",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1cXjTJFtlilDqvm0WD88-cp-osMClc5l6"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "6.3.4",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1hKHe5RQTqZ3eX4qIpJR34Re30ViQzozB"
+        },
+        {
+          "name": "Worldline",
+          "version": "6.3.4",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1NQf5N0AbGui3OCL-SoadNuy_gr1Hmn6_"
+        },
+        {
+          "name": "Worldline",
+          "version": "6.4.0",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1Ct8Mic-UBvA-gBztSw-2f4mFt3B7aAj8"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.0.3",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1WS820AJ3rjP5dzElg3nRU1KWhNzDx1oQ"
+        },
+        {
+          "name": "Worldline",
+          "version": "7.0.3",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=14xTtqHZ6dyJUik58sZKV3Kn9dQMeZmgO"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.0.4",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1PLF5PrOlZ5NW2IzsqF8LlPTZMO2Ou9uV"
+        },
+        {
+          "name": "Worldline",
+          "version": "7.0.4",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1uOUj-bhPgPKwr_dhhvyeRdxMujlAWTMj"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.1.7",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1ndo5H4SRWUTw8HdHS_t9V5U-x_zCOf77"
+        },
+        {
+          "name": "Worldline",
+          "version": "7.1.7",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=16EKOXIFr_-uAr8g-JsX6RvI4aC79hfcy"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.2.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=17U6OrDBWXWUwvYnrbwlp-jR63BJsOn0i"
+        },
+        {
+          "name": "Worldline",
+          "version": "7.2.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1Uuk9T7CrJdpzEKCAjswQ5zh7X0vw6di9"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.2.5",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1IwFtOCot2IINRnB4wUoyPvJVKR7Ly4Jh"
+        },
+        {
+          "name": "Worldline",
+          "version": "7.2.5",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1LM72TBkpRKRLFLje__nZaPul-iFdhDqS"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.4.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1pcaXUlg0B_Obb_8Ni-S2IRSyd-aFYRKU"
+        },
+        {
+          "name": "Worldline",
+          "version": "7.4.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1CkpTG5PAL1GYAyvzMtblMKyRmdI1YFrJ"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.5.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1VG2PSsq3X54-la13OgwXLJnj7puYTCff"
+        },
+        {
+          "name": "Worldline",
+          "version": "7.5.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1yxXti7EXYPDKOS_DOkZdj0clTDcyEUMv"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.5.5",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1a6ZdCEF48u9mNTAjkH3FW3gmOwdOvkmy"
+        },
+        {
+          "name": "Worldline",
+          "version": "7.5.5",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1SMTAYbZz7TjpiKOCL7_Ltn6syWwBkTOM"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "8.2.7",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1wDU1KSYTpY0jpree277gnCm6ie3esPg6"
+        },
+        {
+          "name": "Worldline",
+          "version": "8.2.7",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1mFUUqHblehJDL7jf26QNzpwByMQ0PDhi"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "8.4.5",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1yknTfeFQfS02rFEKWwZFCpP6s3Kvbfyy"
+        },
+        {
+          "name": "Worldline",
+          "version": "8.4.5",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1wDU1KSYTpY0jpree277gnCm6ie3esPg6"
         },
         {
           "name": "Cardlink POSsible",
@@ -152,14 +152,19 @@
           "downloadUrl": "https://drive.google.com/uc?export=download&id=1hhmIte76DL-rdVaK5SAUvtP0QuF3stD1"
         },
         {
-          "name": "MAXSTORE",
-          "version": "v8.5.0",
-          "downloadUrl": "https://example.com/downloads/a920/apk/maxstore-8.5.0.apk"
+          "name": "Worldline",
+          "version": "8.4.7",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1uYjdDeVJR1xyjBaGQKely1BfV-viFj1K"
         },
         {
           "name": "KeyInject",
           "version": "KeyInject.apk",
           "downloadUrl": "https://example.com/downloads/a920/apk/keyinject.apk"
+        },
+        {
+          "name": "MAXSTORE",
+          "version": "v8.5.0",
+          "downloadUrl": "https://example.com/downloads/a920/apk/maxstore-8.5.0.apk"
         },
         {
           "name": "NeptuneService",
@@ -169,14 +174,14 @@
       ],
       "firmware": [
         {
-          "name": "PayDroid 7.1.2 Aquarius",
-          "version": "V02.5.40_20241008",
-          "downloadUrl": "https://example.com/downloads/a920/firmware/PayDroid_7.1.2_Aquarius_V02.5.40_20241008.paydroid"
-        },
-        {
           "name": "PayDroid 5.1.1 Aquarius",
           "version": "V02.3.47_20240730",
           "downloadUrl": "https://example.com/downloads/a920/firmware/PayDroid_5.1.1_Aquarius_V02.3.47_20240730.paydroid"
+        },
+        {
+          "name": "PayDroid 7.1.2 Aquarius",
+          "version": "V02.5.40_20241008",
+          "downloadUrl": "https://example.com/downloads/a920/firmware/PayDroid_7.1.2_Aquarius_V02.5.40_20241008.paydroid"
         }
       ],
       "manual": [
@@ -187,9 +192,8 @@
         }
       ]
     },
-    "keyTestMenu": "Key Test Menu(pass: 666666)",
-    "protocol": "IK(IL) Protocol / DUKPT / USB DEV (MICRO OTG to MINI USB)",
-    "eraseKeyInjection": "Method to erase key injection data"
+    "keyTestMenu": "PASSWORD: 666666",
+    "protocol": "IK(IL) Protocol / DUKPT / USB DEV (MICRO OTG to MINI USB)"
   },
   "a80": {
     "name": "PAX A80",
@@ -199,134 +203,9 @@
     "categories": {
       "apk": [
         {
-          "name": "Worldline",
-          "version": "8.4.5",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1wDU1KSYTpY0jpree277gnCm6ie3esPg6"
-        },
-        {
-          "name": "Worldline",
-          "version": "8.2.7",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1mFUUqHblehJDL7jf26QNzpwByMQ0PDhi"
-        },
-        {
-          "name": "Worldline",
-          "version": "7.5.5",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1SMTAYbZz7TjpiKOCL7_Ltn6syWwBkTOM"
-        },
-        {
-          "name": "Worldline",
-          "version": "7.5.2",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1yxXti7EXYPDKOS_DOkZdj0clTDcyEUMv"
-        },
-        {
-          "name": "Worldline",
-          "version": "7.4.2",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1CkpTG5PAL1GYAyvzMtblMKyRmdI1YFrJ"
-        },
-        {
-          "name": "Worldline",
-          "version": "7.2.5",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1LM72TBkpRKRLFLje__nZaPul-iFdhDqS"
-        },
-        {
-          "name": "Worldline",
-          "version": "7.2.2",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1Uuk9T7CrJdpzEKCAjswQ5zh7X0vw6di9"
-        },
-        {
-          "name": "Worldline",
-          "version": "7.1.7",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=16EKOXIFr_-uAr8g-JsX6RvI4aC79hfcy"
-        },
-        {
-          "name": "Worldline",
-          "version": "7.0.4",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1uOUj-bhPgPKwr_dhhvyeRdxMujlAWTMj"
-        },
-        {
-          "name": "Worldline",
-          "version": "7.0.3",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=14xTtqHZ6dyJUik58sZKV3Kn9dQMeZmgO"
-        },
-        {
-          "name": "Worldline",
-          "version": "6.4.0",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1Ct8Mic-UBvA-gBztSw-2f4mFt3B7aAj8"
-        },
-        {
-          "name": "Worldline",
-          "version": "6.3.4",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1NQf5N0AbGui3OCL-SoadNuy_gr1Hmn6_"
-        },
-        {
-          "name": "Worldline",
-          "version": "6.3.3",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1cXjTJFtlilDqvm0WD88-cp-osMClc5l6"
-        },
-        {
-          "name": "Worldline",
-          "version": "8.4.7",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1uYjdDeVJR1xyjBaGQKely1BfV-viFj1K"
-        },
-        {
           "name": "Cardlink POSsible",
-          "version": "8.4.5",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1yknTfeFQfS02rFEKWwZFCpP6s3Kvbfyy"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "8.2.7",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1wDU1KSYTpY0jpree277gnCm6ie3esPg6"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.5.5",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1a6ZdCEF48u9mNTAjkH3FW3gmOwdOvkmy"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.5.2",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1VG2PSsq3X54-la13OgwXLJnj7puYTCff"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.4.2",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1pcaXUlg0B_Obb_8Ni-S2IRSyd-aFYRKU"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.2.5",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1IwFtOCot2IINRnB4wUoyPvJVKR7Ly4Jh"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.2.2",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=17U6OrDBWXWUwvYnrbwlp-jR63BJsOn0i"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.1.7",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1ndo5H4SRWUTw8HdHS_t9V5U-x_zCOf77"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.0.4",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1PLF5PrOlZ5NW2IzsqF8LlPTZMO2Ou9uV"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.0.3",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1WS820AJ3rjP5dzElg3nRU1KWhNzDx1oQ"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "6.3.4",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1hKHe5RQTqZ3eX4qIpJR34Re30ViQzozB"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "6.3.3",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1aLTLZS1cDHQOwog7M-mEiHveXvGPxm90"
+          "version": "4.3.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1rh8UPlNjnxpvAyy49b5TvNSqHt6txJE7"
         },
         {
           "name": "Cardlink POSsible",
@@ -335,8 +214,128 @@
         },
         {
           "name": "Cardlink POSsible",
-          "version": "4.3.2",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1rh8UPlNjnxpvAyy49b5TvNSqHt6txJE7"
+          "version": "6.3.3",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1aLTLZS1cDHQOwog7M-mEiHveXvGPxm90"
+        },
+        {
+          "name": "Worldline",
+          "version": "6.3.3",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1cXjTJFtlilDqvm0WD88-cp-osMClc5l6"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "6.3.4",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1hKHe5RQTqZ3eX4qIpJR34Re30ViQzozB"
+        },
+        {
+          "name": "Worldline",
+          "version": "6.3.4",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1NQf5N0AbGui3OCL-SoadNuy_gr1Hmn6_"
+        },
+        {
+          "name": "Worldline",
+          "version": "6.4.0",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1Ct8Mic-UBvA-gBztSw-2f4mFt3B7aAj8"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.0.3",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1WS820AJ3rjP5dzElg3nRU1KWhNzDx1oQ"
+        },
+        {
+          "name": "Worldline",
+          "version": "7.0.3",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=14xTtqHZ6dyJUik58sZKV3Kn9dQMeZmgO"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.0.4",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1PLF5PrOlZ5NW2IzsqF8LlPTZMO2Ou9uV"
+        },
+        {
+          "name": "Worldline",
+          "version": "7.0.4",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1uOUj-bhPgPKwr_dhhvyeRdxMujlAWTMj"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.1.7",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1ndo5H4SRWUTw8HdHS_t9V5U-x_zCOf77"
+        },
+        {
+          "name": "Worldline",
+          "version": "7.1.7",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=16EKOXIFr_-uAr8g-JsX6RvI4aC79hfcy"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.2.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=17U6OrDBWXWUwvYnrbwlp-jR63BJsOn0i"
+        },
+        {
+          "name": "Worldline",
+          "version": "7.2.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1Uuk9T7CrJdpzEKCAjswQ5zh7X0vw6di9"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.2.5",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1IwFtOCot2IINRnB4wUoyPvJVKR7Ly4Jh"
+        },
+        {
+          "name": "Worldline",
+          "version": "7.2.5",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1LM72TBkpRKRLFLje__nZaPul-iFdhDqS"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.4.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1pcaXUlg0B_Obb_8Ni-S2IRSyd-aFYRKU"
+        },
+        {
+          "name": "Worldline",
+          "version": "7.4.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1CkpTG5PAL1GYAyvzMtblMKyRmdI1YFrJ"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.5.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1VG2PSsq3X54-la13OgwXLJnj7puYTCff"
+        },
+        {
+          "name": "Worldline",
+          "version": "7.5.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1yxXti7EXYPDKOS_DOkZdj0clTDcyEUMv"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.5.5",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1a6ZdCEF48u9mNTAjkH3FW3gmOwdOvkmy"
+        },
+        {
+          "name": "Worldline",
+          "version": "7.5.5",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1SMTAYbZz7TjpiKOCL7_Ltn6syWwBkTOM"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "8.2.7",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1wDU1KSYTpY0jpree277gnCm6ie3esPg6"
+        },
+        {
+          "name": "Worldline",
+          "version": "8.2.7",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1mFUUqHblehJDL7jf26QNzpwByMQ0PDhi"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "8.4.5",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1yknTfeFQfS02rFEKWwZFCpP6s3Kvbfyy"
+        },
+        {
+          "name": "Worldline",
+          "version": "8.4.5",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1wDU1KSYTpY0jpree277gnCm6ie3esPg6"
         },
         {
           "name": "Cardlink POSsible",
@@ -344,14 +343,19 @@
           "downloadUrl": "https://drive.google.com/uc?export=download&id=1hhmIte76DL-rdVaK5SAUvtP0QuF3stD1"
         },
         {
-          "name": "MAXSTORE",
-          "version": "v8.5.0",
-          "downloadUrl": "https://example.com/downloads/a80/apk/maxstore-8.5.0.apk"
+          "name": "Worldline",
+          "version": "8.4.7",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1uYjdDeVJR1xyjBaGQKely1BfV-viFj1K"
         },
         {
           "name": "KeyInject",
           "version": "KeyInject.apk",
           "downloadUrl": "https://example.com/downloads/a80/apk/keyinject.apk"
+        },
+        {
+          "name": "MAXSTORE",
+          "version": "v8.5.0",
+          "downloadUrl": "https://example.com/downloads/a80/apk/maxstore-8.5.0.apk"
         },
         {
           "name": "NeptuneService",
@@ -385,8 +389,7 @@
       ]
     },
     "keyTestMenu": "Key Test Menu(pass: 666666)",
-    "protocol": "IK(IL) Protocol / DUKPT / USB DEV (MICRO OTG to MINI USB)",
-    "eraseKeyInjection": "Method to erase key injection data for A80"
+    "protocol": "IK(IL) Protocol / DUKPT / USB DEV (MICRO OTG to MINI USB)"
   },
   "d200": {
     "name": "PAX D200",
@@ -420,9 +423,14 @@
     "categories": {
       "apk": [
         {
-          "name": "KeyInject",
-          "version": "KeyInject.apk",
-          "downloadUrl": "https://example.com/downloads/sk800/apk/keyinject.apk"
+          "name": "EasyLink_Full",
+          "version": "v2.04.00W_20250110_sign",
+          "downloadUrl": "https://example.com/downloads/sk800/apk/easylink-full-v2.04.00W-20250110-sign.apk"
+        },
+        {
+          "name": "prolin-pelican",
+          "version": "2.7.153.12097R_SIG",
+          "downloadUrl": "https://example.com/downloads/sk800/apk/prolin-pelican-2.7.153.12097R_SIG.apk"
         },
         {
           "name": "PDM",
@@ -430,26 +438,20 @@
           "downloadUrl": "https://example.com/downloads/sk800/apk/pdm-3.04.02.apk"
         },
         {
-          "name": "EasyLink_Full",
-          "version": "v2.04.00W_20250110_sign",
-          "downloadUrl": "https://example.com/downloads/sk800/apk/easylink-full-v2.04.00W-20250110-sign.apk"
-        },
-        {
           "name": "MAXSTORE",
           "version": "v8.5.0",
           "downloadUrl": "https://example.com/downloads/sk800/apk/maxstore-8.5.0.apk"
         },
         {
-          "name": "prolin-pelican",
-          "version": "2.7.153.12097R_SIG",
-          "downloadUrl": "https://example.com/downloads/sk800/apk/prolin-pelican-2.7.153.12097R_SIG.apk"
+          "name": "KeyInject",
+          "version": "KeyInject.apk",
+          "downloadUrl": "https://example.com/downloads/sk800/apk/keyinject.apk"
         }
       ],
       "firmware": []
     },
     "keyTestMenu": "Key Test Menu(pass: 666666)",
-    "protocol": "EL Protocol / DUKPT (TIK 1) / MICRO OTG to MINI USB",
-    "eraseKeyInjection": "Method to erase key injection data for SK800"
+    "protocol": "EL Protocol / DUKPT (TIK 1) / MICRO OTG to MINI USB"
   },
   "e800": {
     "name": "PAX E800",
@@ -460,63 +462,8 @@
       "apk": [
         {
           "name": "Cardlink POSsible",
-          "version": "8.4.5",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1yknTfeFQfS02rFEKWwZFCpP6s3Kvbfyy"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "8.2.7",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1wDU1KSYTpY0jpree277gnCm6ie3esPg6"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.5.5",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1a6ZdCEF48u9mNTAjkH3FW3gmOwdOvkmy"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.5.2",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1VG2PSsq3X54-la13OgwXLJnj7puYTCff"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.4.2",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1pcaXUlg0B_Obb_8Ni-S2IRSyd-aFYRKU"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.2.5",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1IwFtOCot2IINRnB4wUoyPvJVKR7Ly4Jh"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.2.2",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=17U6OrDBWXWUwvYnrbwlp-jR63BJsOn0i"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.1.7",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1ndo5H4SRWUTw8HdHS_t9V5U-x_zCOf77"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.0.4",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1PLF5PrOlZ5NW2IzsqF8LlPTZMO2Ou9uV"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.0.3",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1WS820AJ3rjP5dzElg3nRU1KWhNzDx1oQ"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "6.3.4",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1hKHe5RQTqZ3eX4qIpJR34Re30ViQzozB"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "6.3.3",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1aLTLZS1cDHQOwog7M-mEiHveXvGPxm90"
+          "version": "4.3.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1rh8UPlNjnxpvAyy49b5TvNSqHt6txJE7"
         },
         {
           "name": "Cardlink POSsible",
@@ -525,13 +472,73 @@
         },
         {
           "name": "Cardlink POSsible",
-          "version": "4.3.2",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1rh8UPlNjnxpvAyy49b5TvNSqHt6txJE7"
+          "version": "6.3.3",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1aLTLZS1cDHQOwog7M-mEiHveXvGPxm90"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "6.3.4",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1hKHe5RQTqZ3eX4qIpJR34Re30ViQzozB"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.0.3",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1WS820AJ3rjP5dzElg3nRU1KWhNzDx1oQ"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.0.4",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1PLF5PrOlZ5NW2IzsqF8LlPTZMO2Ou9uV"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.1.7",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1ndo5H4SRWUTw8HdHS_t9V5U-x_zCOf77"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.2.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=17U6OrDBWXWUwvYnrbwlp-jR63BJsOn0i"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.2.5",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1IwFtOCot2IINRnB4wUoyPvJVKR7Ly4Jh"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.4.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1pcaXUlg0B_Obb_8Ni-S2IRSyd-aFYRKU"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.5.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1VG2PSsq3X54-la13OgwXLJnj7puYTCff"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.5.5",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1a6ZdCEF48u9mNTAjkH3FW3gmOwdOvkmy"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "8.2.7",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1wDU1KSYTpY0jpree277gnCm6ie3esPg6"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "8.4.5",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1yknTfeFQfS02rFEKWwZFCpP6s3Kvbfyy"
         },
         {
           "name": "Cardlink POSsible",
           "version": "8.4.7",
           "downloadUrl": "https://drive.google.com/uc?export=download&id=1hhmIte76DL-rdVaK5SAUvtP0QuF3stD1"
+        },
+        {
+          "name": "Easylink",
+          "version": "2.04.00W",
+          "downloadUrl": "https://example.com/downloads/e800/apk/easylink-2.04.00W.apk"
         },
         {
           "name": "prolin-pelican",
@@ -542,11 +549,6 @@
           "name": "PDM",
           "version": "3.04.02",
           "downloadUrl": "https://example.com/downloads/e800/apk/pdm-3.04.02.apk"
-        },
-        {
-          "name": "Easylink",
-          "version": "2.04.00W",
-          "downloadUrl": "https://example.com/downloads/e800/apk/easylink-2.04.00W.apk"
         },
         {
           "name": "MAXSTORE",
@@ -580,8 +582,7 @@
       ]
     },
     "keyTestMenu": "Key Test Menu(pass: 666666)",
-    "protocol": "EL Protocol / DUKPT (TIK 1) / USB DEV (S80) / MICRO OTG to MINI USB",
-    "eraseKeyInjection": "Method to erase key injection data for E800"
+    "protocol": "EL Protocol / DUKPT (TIK 1) / USB DEV (S80) / MICRO OTG to MINI USB"
   },
   "a910": {
     "name": "PAX A910",
@@ -592,63 +593,8 @@
       "apk": [
         {
           "name": "Cardlink POSsible",
-          "version": "8.4.5",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1yknTfeFQfS02rFEKWwZFCpP6s3Kvbfyy"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "8.2.7",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1wDU1KSYTpY0jpree277gnCm6ie3esPg6"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.5.5",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1a6ZdCEF48u9mNTAjkH3FW3gmOwdOvkmy"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.5.2",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1VG2PSsq3X54-la13OgwXLJnj7puYTCff"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.4.2",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1pcaXUlg0B_Obb_8Ni-S2IRSyd-aFYRKU"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.2.5",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1IwFtOCot2IINRnB4wUoyPvJVKR7Ly4Jh"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.2.2",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=17U6OrDBWXWUwvYnrbwlp-jR63BJsOn0i"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.1.7",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1ndo5H4SRWUTw8HdHS_t9V5U-x_zCOf77"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.0.4",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1PLF5PrOlZ5NW2IzsqF8LlPTZMO2Ou9uV"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.0.3",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1WS820AJ3rjP5dzElg3nRU1KWhNzDx1oQ"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "6.3.4",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1hKHe5RQTqZ3eX4qIpJR34Re30ViQzozB"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "6.3.3",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1aLTLZS1cDHQOwog7M-mEiHveXvGPxm90"
+          "version": "4.3.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1rh8UPlNjnxpvAyy49b5TvNSqHt6txJE7"
         },
         {
           "name": "Cardlink POSsible",
@@ -657,68 +603,18 @@
         },
         {
           "name": "Cardlink POSsible",
-          "version": "4.3.2",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1rh8UPlNjnxpvAyy49b5TvNSqHt6txJE7"
+          "version": "6.3.3",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1aLTLZS1cDHQOwog7M-mEiHveXvGPxm90"
+        },
+        {
+          "name": "Worldline",
+          "version": "6.3.3",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1cXjTJFtlilDqvm0WD88-cp-osMClc5l6"
         },
         {
           "name": "Cardlink POSsible",
-          "version": "8.4.7",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1hhmIte76DL-rdVaK5SAUvtP0QuF3stD1"
-        },
-        {
-          "name": "Worldline",
-          "version": "8.4.5",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1wDU1KSYTpY0jpree277gnCm6ie3esPg6"
-        },
-        {
-          "name": "Worldline",
-          "version": "8.2.7",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1mFUUqHblehJDL7jf26QNzpwByMQ0PDhi"
-        },
-        {
-          "name": "Worldline",
-          "version": "7.5.5",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1SMTAYbZz7TjpiKOCL7_Ltn6syWwBkTOM"
-        },
-        {
-          "name": "Worldline",
-          "version": "7.5.2",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1yxXti7EXYPDKOS_DOkZdj0clTDcyEUMv"
-        },
-        {
-          "name": "Worldline",
-          "version": "7.4.2",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1CkpTG5PAL1GYAyvzMtblMKyRmdI1YFrJ"
-        },
-        {
-          "name": "Worldline",
-          "version": "7.2.5",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1LM72TBkpRKRLFLje__nZaPul-iFdhDqS"
-        },
-        {
-          "name": "Worldline",
-          "version": "7.2.2",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1Uuk9T7CrJdpzEKCAjswQ5zh7X0vw6di9"
-        },
-        {
-          "name": "Worldline",
-          "version": "7.1.7",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=16EKOXIFr_-uAr8g-JsX6RvI4aC79hfcy"
-        },
-        {
-          "name": "Worldline",
-          "version": "7.0.4",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1uOUj-bhPgPKwr_dhhvyeRdxMujlAWTMj"
-        },
-        {
-          "name": "Worldline",
-          "version": "7.0.3",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=14xTtqHZ6dyJUik58sZKV3Kn9dQMeZmgO"
-        },
-        {
-          "name": "Worldline",
-          "version": "6.4.0",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1Ct8Mic-UBvA-gBztSw-2f4mFt3B7aAj8"
+          "version": "6.3.4",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1hKHe5RQTqZ3eX4qIpJR34Re30ViQzozB"
         },
         {
           "name": "Worldline",
@@ -727,8 +623,113 @@
         },
         {
           "name": "Worldline",
-          "version": "6.3.3",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1cXjTJFtlilDqvm0WD88-cp-osMClc5l6"
+          "version": "6.4.0",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1Ct8Mic-UBvA-gBztSw-2f4mFt3B7aAj8"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.0.3",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1WS820AJ3rjP5dzElg3nRU1KWhNzDx1oQ"
+        },
+        {
+          "name": "Worldline",
+          "version": "7.0.3",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=14xTtqHZ6dyJUik58sZKV3Kn9dQMeZmgO"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.0.4",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1PLF5PrOlZ5NW2IzsqF8LlPTZMO2Ou9uV"
+        },
+        {
+          "name": "Worldline",
+          "version": "7.0.4",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1uOUj-bhPgPKwr_dhhvyeRdxMujlAWTMj"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.1.7",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1ndo5H4SRWUTw8HdHS_t9V5U-x_zCOf77"
+        },
+        {
+          "name": "Worldline",
+          "version": "7.1.7",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=16EKOXIFr_-uAr8g-JsX6RvI4aC79hfcy"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.2.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=17U6OrDBWXWUwvYnrbwlp-jR63BJsOn0i"
+        },
+        {
+          "name": "Worldline",
+          "version": "7.2.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1Uuk9T7CrJdpzEKCAjswQ5zh7X0vw6di9"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.2.5",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1IwFtOCot2IINRnB4wUoyPvJVKR7Ly4Jh"
+        },
+        {
+          "name": "Worldline",
+          "version": "7.2.5",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1LM72TBkpRKRLFLje__nZaPul-iFdhDqS"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.4.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1pcaXUlg0B_Obb_8Ni-S2IRSyd-aFYRKU"
+        },
+        {
+          "name": "Worldline",
+          "version": "7.4.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1CkpTG5PAL1GYAyvzMtblMKyRmdI1YFrJ"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.5.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1VG2PSsq3X54-la13OgwXLJnj7puYTCff"
+        },
+        {
+          "name": "Worldline",
+          "version": "7.5.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1yxXti7EXYPDKOS_DOkZdj0clTDcyEUMv"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.5.5",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1a6ZdCEF48u9mNTAjkH3FW3gmOwdOvkmy"
+        },
+        {
+          "name": "Worldline",
+          "version": "7.5.5",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1SMTAYbZz7TjpiKOCL7_Ltn6syWwBkTOM"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "8.2.7",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1wDU1KSYTpY0jpree277gnCm6ie3esPg6"
+        },
+        {
+          "name": "Worldline",
+          "version": "8.2.7",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1mFUUqHblehJDL7jf26QNzpwByMQ0PDhi"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "8.4.5",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1yknTfeFQfS02rFEKWwZFCpP6s3Kvbfyy"
+        },
+        {
+          "name": "Worldline",
+          "version": "8.4.5",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1wDU1KSYTpY0jpree277gnCm6ie3esPg6"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "8.4.7",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1hhmIte76DL-rdVaK5SAUvtP0QuF3stD1"
         },
         {
           "name": "Worldline",
@@ -736,14 +737,14 @@
           "downloadUrl": "https://drive.google.com/uc?export=download&id=1uYjdDeVJR1xyjBaGQKely1BfV-viFj1K"
         },
         {
-          "name": "MAXSTORE",
-          "version": "v8.5.0",
-          "downloadUrl": "https://example.com/downloads/a910/apk/maxstore-8.5.0.apk"
-        },
-        {
           "name": "KeyInject",
           "version": "KeyInject.apk",
           "downloadUrl": "https://example.com/downloads/a910/apk/keyinject.apk"
+        },
+        {
+          "name": "MAXSTORE",
+          "version": "v8.5.0",
+          "downloadUrl": "https://example.com/downloads/a910/apk/maxstore-8.5.0.apk"
         },
         {
           "name": "NeptuneService",
@@ -767,8 +768,7 @@
       ]
     },
     "keyTestMenu": "Key Test Menu(pass: 666666)",
-    "protocol": "IK(IL) Protocol / DUKPT / USB DEV (TYPE C OTG to MINI USB)",
-    "eraseKeyInjection": "Method to erase key injection data for A910"
+    "protocol": "IK(IL) Protocol / DUKPT / USB DEV (TYPE C OTG to MINI USB)"
   },
   "e700": {
     "name": "PAX E700",
@@ -779,63 +779,8 @@
       "apk": [
         {
           "name": "Cardlink POSsible",
-          "version": "8.4.5",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1yknTfeFQfS02rFEKWwZFCpP6s3Kvbfyy"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "8.2.7",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1wDU1KSYTpY0jpree277gnCm6ie3esPg6"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.5.5",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1a6ZdCEF48u9mNTAjkH3FW3gmOwdOvkmy"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.5.2",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1VG2PSsq3X54-la13OgwXLJnj7puYTCff"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.4.2",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1pcaXUlg0B_Obb_8Ni-S2IRSyd-aFYRKU"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.2.5",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1IwFtOCot2IINRnB4wUoyPvJVKR7Ly4Jh"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.2.2",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=17U6OrDBWXWUwvYnrbwlp-jR63BJsOn0i"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.1.7",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1ndo5H4SRWUTw8HdHS_t9V5U-x_zCOf77"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.0.4",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1PLF5PrOlZ5NW2IzsqF8LlPTZMO2Ou9uV"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.0.3",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1WS820AJ3rjP5dzElg3nRU1KWhNzDx1oQ"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "6.3.4",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1hKHe5RQTqZ3eX4qIpJR34Re30ViQzozB"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "6.3.3",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1aLTLZS1cDHQOwog7M-mEiHveXvGPxm90"
+          "version": "4.3.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1rh8UPlNjnxpvAyy49b5TvNSqHt6txJE7"
         },
         {
           "name": "Cardlink POSsible",
@@ -844,18 +789,68 @@
         },
         {
           "name": "Cardlink POSsible",
-          "version": "4.3.2",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1rh8UPlNjnxpvAyy49b5TvNSqHt6txJE7"
+          "version": "6.3.3",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1aLTLZS1cDHQOwog7M-mEiHveXvGPxm90"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "6.3.4",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1hKHe5RQTqZ3eX4qIpJR34Re30ViQzozB"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.0.3",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1WS820AJ3rjP5dzElg3nRU1KWhNzDx1oQ"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.0.4",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1PLF5PrOlZ5NW2IzsqF8LlPTZMO2Ou9uV"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.1.7",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1ndo5H4SRWUTw8HdHS_t9V5U-x_zCOf77"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.2.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=17U6OrDBWXWUwvYnrbwlp-jR63BJsOn0i"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.2.5",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1IwFtOCot2IINRnB4wUoyPvJVKR7Ly4Jh"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.4.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1pcaXUlg0B_Obb_8Ni-S2IRSyd-aFYRKU"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.5.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1VG2PSsq3X54-la13OgwXLJnj7puYTCff"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.5.5",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1a6ZdCEF48u9mNTAjkH3FW3gmOwdOvkmy"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "8.2.7",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1wDU1KSYTpY0jpree277gnCm6ie3esPg6"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "8.4.5",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1yknTfeFQfS02rFEKWwZFCpP6s3Kvbfyy"
         },
         {
           "name": "Cardlink POSsible",
           "version": "8.4.7",
           "downloadUrl": "https://drive.google.com/uc?export=download&id=1hhmIte76DL-rdVaK5SAUvtP0QuF3stD1"
-        },
-        {
-          "name": "MAXSTORE",
-          "version": "v8.0.5",
-          "downloadUrl": "https://example.com/downloads/e700/apk/maxstore-8.0.5.apk"
         },
         {
           "name": "Easylink",
@@ -868,14 +863,19 @@
           "downloadUrl": "https://example.com/downloads/e700/apk/pdm-3.04.02.apk"
         },
         {
-          "name": "KeyInject",
-          "version": "KeyInject.apk",
-          "downloadUrl": "https://example.com/downloads/e700/apk/keyinject.apk"
-        },
-        {
           "name": "NeptuneService",
           "version": "NeptuneService_V3.10.01",
           "downloadUrl": "https://example.com/downloads/e700/apk/neptune-service-v3.10.01.apk"
+        },
+        {
+          "name": "MAXSTORE",
+          "version": "v8.0.5",
+          "downloadUrl": "https://example.com/downloads/e700/apk/maxstore-8.0.5.apk"
+        },
+        {
+          "name": "KeyInject",
+          "version": "KeyInject.apk",
+          "downloadUrl": "https://example.com/downloads/e700/apk/keyinject.apk"
         }
       ],
       "firmware": [
@@ -898,63 +898,8 @@
       "apk": [
         {
           "name": "Cardlink POSsible",
-          "version": "8.4.5",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1yknTfeFQfS02rFEKWwZFCpP6s3Kvbfyy"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "8.2.7",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1wDU1KSYTpY0jpree277gnCm6ie3esPg6"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.5.5",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1a6ZdCEF48u9mNTAjkH3FW3gmOwdOvkmy"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.5.2",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1VG2PSsq3X54-la13OgwXLJnj7puYTCff"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.4.2",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1pcaXUlg0B_Obb_8Ni-S2IRSyd-aFYRKU"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.2.5",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1IwFtOCot2IINRnB4wUoyPvJVKR7Ly4Jh"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.2.2",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=17U6OrDBWXWUwvYnrbwlp-jR63BJsOn0i"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.1.7",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1ndo5H4SRWUTw8HdHS_t9V5U-x_zCOf77"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.0.4",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1PLF5PrOlZ5NW2IzsqF8LlPTZMO2Ou9uV"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.0.3",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1WS820AJ3rjP5dzElg3nRU1KWhNzDx1oQ"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "6.3.4",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1hKHe5RQTqZ3eX4qIpJR34Re30ViQzozB"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "6.3.3",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1aLTLZS1cDHQOwog7M-mEiHveXvGPxm90"
+          "version": "4.3.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1rh8UPlNjnxpvAyy49b5TvNSqHt6txJE7"
         },
         {
           "name": "Cardlink POSsible",
@@ -963,18 +908,68 @@
         },
         {
           "name": "Cardlink POSsible",
-          "version": "4.3.2",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1rh8UPlNjnxpvAyy49b5TvNSqHt6txJE7"
+          "version": "6.3.3",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1aLTLZS1cDHQOwog7M-mEiHveXvGPxm90"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "6.3.4",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1hKHe5RQTqZ3eX4qIpJR34Re30ViQzozB"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.0.3",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1WS820AJ3rjP5dzElg3nRU1KWhNzDx1oQ"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.0.4",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1PLF5PrOlZ5NW2IzsqF8LlPTZMO2Ou9uV"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.1.7",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1ndo5H4SRWUTw8HdHS_t9V5U-x_zCOf77"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.2.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=17U6OrDBWXWUwvYnrbwlp-jR63BJsOn0i"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.2.5",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1IwFtOCot2IINRnB4wUoyPvJVKR7Ly4Jh"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.4.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1pcaXUlg0B_Obb_8Ni-S2IRSyd-aFYRKU"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.5.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1VG2PSsq3X54-la13OgwXLJnj7puYTCff"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.5.5",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1a6ZdCEF48u9mNTAjkH3FW3gmOwdOvkmy"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "8.2.7",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1wDU1KSYTpY0jpree277gnCm6ie3esPg6"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "8.4.5",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1yknTfeFQfS02rFEKWwZFCpP6s3Kvbfyy"
         },
         {
           "name": "Cardlink POSsible",
           "version": "8.4.7",
           "downloadUrl": "https://drive.google.com/uc?export=download&id=1hhmIte76DL-rdVaK5SAUvtP0QuF3stD1"
-        },
-        {
-          "name": "MAXSTORE",
-          "version": "v8.5.0",
-          "downloadUrl": "https://example.com/downloads/e600/apk/maxstore-8.5.0.apk"
         },
         {
           "name": "Easylink",
@@ -987,14 +982,19 @@
           "downloadUrl": "https://example.com/downloads/e600/apk/pdm-3.04.02.apk"
         },
         {
-          "name": "KeyInject",
-          "version": "KeyInject.apk",
-          "downloadUrl": "https://example.com/downloads/e600/apk/keyinject.apk"
-        },
-        {
           "name": "NeptuneService",
           "version": "NeptuneService_V3.10.01",
           "downloadUrl": "https://example.com/downloads/e600/apk/neptune-service-v3.10.01.apk"
+        },
+        {
+          "name": "MAXSTORE",
+          "version": "v8.5.0",
+          "downloadUrl": "https://example.com/downloads/e600/apk/maxstore-8.5.0.apk"
+        },
+        {
+          "name": "KeyInject",
+          "version": "KeyInject.apk",
+          "downloadUrl": "https://example.com/downloads/e600/apk/keyinject.apk"
         }
       ],
       "firmware": [
@@ -1017,63 +1017,8 @@
       "apk": [
         {
           "name": "Cardlink POSsible",
-          "version": "8.4.5",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1yknTfeFQfS02rFEKWwZFCpP6s3Kvbfyy"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "8.2.7",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1wDU1KSYTpY0jpree277gnCm6ie3esPg6"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.5.5",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1a6ZdCEF48u9mNTAjkH3FW3gmOwdOvkmy"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.5.2",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1VG2PSsq3X54-la13OgwXLJnj7puYTCff"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.4.2",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1pcaXUlg0B_Obb_8Ni-S2IRSyd-aFYRKU"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.2.5",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1IwFtOCot2IINRnB4wUoyPvJVKR7Ly4Jh"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.2.2",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=17U6OrDBWXWUwvYnrbwlp-jR63BJsOn0i"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.1.7",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1ndo5H4SRWUTw8HdHS_t9V5U-x_zCOf77"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.0.4",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1PLF5PrOlZ5NW2IzsqF8LlPTZMO2Ou9uV"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.0.3",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1WS820AJ3rjP5dzElg3nRU1KWhNzDx1oQ"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "6.3.4",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1hKHe5RQTqZ3eX4qIpJR34Re30ViQzozB"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "6.3.3",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1aLTLZS1cDHQOwog7M-mEiHveXvGPxm90"
+          "version": "4.3.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1rh8UPlNjnxpvAyy49b5TvNSqHt6txJE7"
         },
         {
           "name": "Cardlink POSsible",
@@ -1082,8 +1027,63 @@
         },
         {
           "name": "Cardlink POSsible",
-          "version": "4.3.2",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1rh8UPlNjnxpvAyy49b5TvNSqHt6txJE7"
+          "version": "6.3.3",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1aLTLZS1cDHQOwog7M-mEiHveXvGPxm90"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "6.3.4",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1hKHe5RQTqZ3eX4qIpJR34Re30ViQzozB"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.0.3",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1WS820AJ3rjP5dzElg3nRU1KWhNzDx1oQ"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.0.4",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1PLF5PrOlZ5NW2IzsqF8LlPTZMO2Ou9uV"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.1.7",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1ndo5H4SRWUTw8HdHS_t9V5U-x_zCOf77"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.2.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=17U6OrDBWXWUwvYnrbwlp-jR63BJsOn0i"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.2.5",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1IwFtOCot2IINRnB4wUoyPvJVKR7Ly4Jh"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.4.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1pcaXUlg0B_Obb_8Ni-S2IRSyd-aFYRKU"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.5.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1VG2PSsq3X54-la13OgwXLJnj7puYTCff"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.5.5",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1a6ZdCEF48u9mNTAjkH3FW3gmOwdOvkmy"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "8.2.7",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1wDU1KSYTpY0jpree277gnCm6ie3esPg6"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "8.4.5",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1yknTfeFQfS02rFEKWwZFCpP6s3Kvbfyy"
         },
         {
           "name": "Cardlink POSsible",
@@ -1122,8 +1122,7 @@
       ]
     },
     "keyTestMenu": "Key Test Menu(pass: 666666)",
-    "protocol": "IK(IL) Protocol / DUKPT / USB DEV (TYPE C OTG to MINI USB)",
-    "eraseKeyInjection": "Method to erase key injection data for A50"
+    "protocol": "IK(IL) Protocol / DUKPT / USB DEV (TYPE C OTG to MINI USB)"
   },
   "a77": {
     "name": "PAX A77",
@@ -1134,63 +1133,8 @@
       "apk": [
         {
           "name": "Cardlink POSsible",
-          "version": "8.4.5",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1yknTfeFQfS02rFEKWwZFCpP6s3Kvbfyy"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "8.2.7",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1wDU1KSYTpY0jpree277gnCm6ie3esPg6"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.5.5",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1a6ZdCEF48u9mNTAjkH3FW3gmOwdOvkmy"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.5.2",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1VG2PSsq3X54-la13OgwXLJnj7puYTCff"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.4.2",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1pcaXUlg0B_Obb_8Ni-S2IRSyd-aFYRKU"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.2.5",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1IwFtOCot2IINRnB4wUoyPvJVKR7Ly4Jh"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.2.2",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=17U6OrDBWXWUwvYnrbwlp-jR63BJsOn0i"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.1.7",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1ndo5H4SRWUTw8HdHS_t9V5U-x_zCOf77"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.0.4",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1PLF5PrOlZ5NW2IzsqF8LlPTZMO2Ou9uV"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.0.3",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1WS820AJ3rjP5dzElg3nRU1KWhNzDx1oQ"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "6.3.4",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1hKHe5RQTqZ3eX4qIpJR34Re30ViQzozB"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "6.3.3",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1aLTLZS1cDHQOwog7M-mEiHveXvGPxm90"
+          "version": "4.3.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1rh8UPlNjnxpvAyy49b5TvNSqHt6txJE7"
         },
         {
           "name": "Cardlink POSsible",
@@ -1199,8 +1143,63 @@
         },
         {
           "name": "Cardlink POSsible",
-          "version": "4.3.2",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1rh8UPlNjnxpvAyy49b5TvNSqHt6txJE7"
+          "version": "6.3.3",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1aLTLZS1cDHQOwog7M-mEiHveXvGPxm90"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "6.3.4",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1hKHe5RQTqZ3eX4qIpJR34Re30ViQzozB"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.0.3",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1WS820AJ3rjP5dzElg3nRU1KWhNzDx1oQ"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.0.4",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1PLF5PrOlZ5NW2IzsqF8LlPTZMO2Ou9uV"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.1.7",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1ndo5H4SRWUTw8HdHS_t9V5U-x_zCOf77"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.2.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=17U6OrDBWXWUwvYnrbwlp-jR63BJsOn0i"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.2.5",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1IwFtOCot2IINRnB4wUoyPvJVKR7Ly4Jh"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.4.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1pcaXUlg0B_Obb_8Ni-S2IRSyd-aFYRKU"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.5.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1VG2PSsq3X54-la13OgwXLJnj7puYTCff"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.5.5",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1a6ZdCEF48u9mNTAjkH3FW3gmOwdOvkmy"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "8.2.7",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1wDU1KSYTpY0jpree277gnCm6ie3esPg6"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "8.4.5",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1yknTfeFQfS02rFEKWwZFCpP6s3Kvbfyy"
         },
         {
           "name": "Cardlink POSsible",
@@ -1239,8 +1238,7 @@
       ]
     },
     "keyTestMenu": "Key Test Menu(pass: 666666)",
-    "protocol": "IK(IL) Protocol / DUKPT / USB DEV (TYPE C OTG to MINI USB)",
-    "eraseKeyInjection": "Method to erase key injection data for A77"
+    "protocol": "IK(IL) Protocol / DUKPT / USB DEV (TYPE C OTG to MINI USB)"
   },
   "im30": {
     "name": "IM30",
@@ -1251,63 +1249,8 @@
       "apk": [
         {
           "name": "Cardlink POSsible",
-          "version": "8.4.5",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1yknTfeFQfS02rFEKWwZFCpP6s3Kvbfyy"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "8.2.7",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1wDU1KSYTpY0jpree277gnCm6ie3esPg6"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.5.5",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1a6ZdCEF48u9mNTAjkH3FW3gmOwdOvkmy"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.5.2",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1VG2PSsq3X54-la13OgwXLJnj7puYTCff"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.4.2",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1pcaXUlg0B_Obb_8Ni-S2IRSyd-aFYRKU"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.2.5",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1IwFtOCot2IINRnB4wUoyPvJVKR7Ly4Jh"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.2.2",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=17U6OrDBWXWUwvYnrbwlp-jR63BJsOn0i"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.1.7",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1ndo5H4SRWUTw8HdHS_t9V5U-x_zCOf77"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.0.4",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1PLF5PrOlZ5NW2IzsqF8LlPTZMO2Ou9uV"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.0.3",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1WS820AJ3rjP5dzElg3nRU1KWhNzDx1oQ"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "6.3.4",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1hKHe5RQTqZ3eX4qIpJR34Re30ViQzozB"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "6.3.3",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1aLTLZS1cDHQOwog7M-mEiHveXvGPxm90"
+          "version": "4.3.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1rh8UPlNjnxpvAyy49b5TvNSqHt6txJE7"
         },
         {
           "name": "Cardlink POSsible",
@@ -1316,8 +1259,63 @@
         },
         {
           "name": "Cardlink POSsible",
-          "version": "4.3.2",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1rh8UPlNjnxpvAyy49b5TvNSqHt6txJE7"
+          "version": "6.3.3",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1aLTLZS1cDHQOwog7M-mEiHveXvGPxm90"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "6.3.4",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1hKHe5RQTqZ3eX4qIpJR34Re30ViQzozB"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.0.3",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1WS820AJ3rjP5dzElg3nRU1KWhNzDx1oQ"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.0.4",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1PLF5PrOlZ5NW2IzsqF8LlPTZMO2Ou9uV"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.1.7",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1ndo5H4SRWUTw8HdHS_t9V5U-x_zCOf77"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.2.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=17U6OrDBWXWUwvYnrbwlp-jR63BJsOn0i"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.2.5",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1IwFtOCot2IINRnB4wUoyPvJVKR7Ly4Jh"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.4.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1pcaXUlg0B_Obb_8Ni-S2IRSyd-aFYRKU"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.5.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1VG2PSsq3X54-la13OgwXLJnj7puYTCff"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.5.5",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1a6ZdCEF48u9mNTAjkH3FW3gmOwdOvkmy"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "8.2.7",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1wDU1KSYTpY0jpree277gnCm6ie3esPg6"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "8.4.5",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1yknTfeFQfS02rFEKWwZFCpP6s3Kvbfyy"
         },
         {
           "name": "Cardlink POSsible",
@@ -1356,8 +1354,7 @@
       ]
     },
     "keyTestMenu": "Key Test Menu(pass: 666666)",
-    "protocol": "IK(IL) Protocol / DUKPT / USB DEV (TYPE C OTG to MINI USB)",
-    "eraseKeyInjection": "Method to erase key injection data for IM30"
+    "protocol": "IK(IL) Protocol / DUKPT / USB DEV (TYPE C OTG to MINI USB)"
   },
   "e500": {
     "name": "PAX E500",
@@ -1368,63 +1365,8 @@
       "apk": [
         {
           "name": "Cardlink POSsible",
-          "version": "8.4.5",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1yknTfeFQfS02rFEKWwZFCpP6s3Kvbfyy"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "8.2.7",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1wDU1KSYTpY0jpree277gnCm6ie3esPg6"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.5.5",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1a6ZdCEF48u9mNTAjkH3FW3gmOwdOvkmy"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.5.2",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1VG2PSsq3X54-la13OgwXLJnj7puYTCff"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.4.2",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1pcaXUlg0B_Obb_8Ni-S2IRSyd-aFYRKU"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.2.5",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1IwFtOCot2IINRnB4wUoyPvJVKR7Ly4Jh"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.2.2",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=17U6OrDBWXWUwvYnrbwlp-jR63BJsOn0i"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.1.7",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1ndo5H4SRWUTw8HdHS_t9V5U-x_zCOf77"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.0.4",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1PLF5PrOlZ5NW2IzsqF8LlPTZMO2Ou9uV"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.0.3",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1WS820AJ3rjP5dzElg3nRU1KWhNzDx1oQ"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "6.3.4",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1hKHe5RQTqZ3eX4qIpJR34Re30ViQzozB"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "6.3.3",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1aLTLZS1cDHQOwog7M-mEiHveXvGPxm90"
+          "version": "4.3.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1rh8UPlNjnxpvAyy49b5TvNSqHt6txJE7"
         },
         {
           "name": "Cardlink POSsible",
@@ -1433,18 +1375,68 @@
         },
         {
           "name": "Cardlink POSsible",
-          "version": "4.3.2",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1rh8UPlNjnxpvAyy49b5TvNSqHt6txJE7"
+          "version": "6.3.3",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1aLTLZS1cDHQOwog7M-mEiHveXvGPxm90"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "6.3.4",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1hKHe5RQTqZ3eX4qIpJR34Re30ViQzozB"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.0.3",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1WS820AJ3rjP5dzElg3nRU1KWhNzDx1oQ"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.0.4",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1PLF5PrOlZ5NW2IzsqF8LlPTZMO2Ou9uV"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.1.7",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1ndo5H4SRWUTw8HdHS_t9V5U-x_zCOf77"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.2.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=17U6OrDBWXWUwvYnrbwlp-jR63BJsOn0i"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.2.5",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1IwFtOCot2IINRnB4wUoyPvJVKR7Ly4Jh"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.4.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1pcaXUlg0B_Obb_8Ni-S2IRSyd-aFYRKU"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.5.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1VG2PSsq3X54-la13OgwXLJnj7puYTCff"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.5.5",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1a6ZdCEF48u9mNTAjkH3FW3gmOwdOvkmy"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "8.2.7",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1wDU1KSYTpY0jpree277gnCm6ie3esPg6"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "8.4.5",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1yknTfeFQfS02rFEKWwZFCpP6s3Kvbfyy"
         },
         {
           "name": "Cardlink POSsible",
           "version": "8.4.7",
           "downloadUrl": "https://drive.google.com/uc?export=download&id=1hhmIte76DL-rdVaK5SAUvtP0QuF3stD1"
-        },
-        {
-          "name": "MAXSTORE",
-          "version": "v8.5.0",
-          "downloadUrl": "https://example.com/downloads/e500/apk/maxstore-8.5.0.apk"
         },
         {
           "name": "Easylink",
@@ -1460,6 +1452,11 @@
           "name": "NeptuneService",
           "version": "NeptuneService_V3.10.01",
           "downloadUrl": "https://example.com/downloads/e500/apk/neptune-service-v3.10.01.apk"
+        },
+        {
+          "name": "MAXSTORE",
+          "version": "v8.5.0",
+          "downloadUrl": "https://example.com/downloads/e500/apk/maxstore-8.5.0.apk"
         }
       ],
       "firmware": [
@@ -1481,134 +1478,9 @@
     "categories": {
       "apk": [
         {
-          "name": "Worldline",
-          "version": "8.4.5",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1wDU1KSYTpY0jpree277gnCm6ie3esPg6"
-        },
-        {
-          "name": "Worldline",
-          "version": "8.2.7",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1mFUUqHblehJDL7jf26QNzpwByMQ0PDhi"
-        },
-        {
-          "name": "Worldline",
-          "version": "7.5.5",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1SMTAYbZz7TjpiKOCL7_Ltn6syWwBkTOM"
-        },
-        {
-          "name": "Worldline",
-          "version": "7.5.2",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1yxXti7EXYPDKOS_DOkZdj0clTDcyEUMv"
-        },
-        {
-          "name": "Worldline",
-          "version": "7.4.2",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1CkpTG5PAL1GYAyvzMtblMKyRmdI1YFrJ"
-        },
-        {
-          "name": "Worldline",
-          "version": "7.2.5",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1LM72TBkpRKRLFLje__nZaPul-iFdhDqS"
-        },
-        {
-          "name": "Worldline",
-          "version": "7.2.2",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1Uuk9T7CrJdpzEKCAjswQ5zh7X0vw6di9"
-        },
-        {
-          "name": "Worldline",
-          "version": "7.1.7",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=16EKOXIFr_-uAr8g-JsX6RvI4aC79hfcy"
-        },
-        {
-          "name": "Worldline",
-          "version": "7.0.4",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1uOUj-bhPgPKwr_dhhvyeRdxMujlAWTMj"
-        },
-        {
-          "name": "Worldline",
-          "version": "7.0.3",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=14xTtqHZ6dyJUik58sZKV3Kn9dQMeZmgO"
-        },
-        {
-          "name": "Worldline",
-          "version": "6.4.0",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1Ct8Mic-UBvA-gBztSw-2f4mFt3B7aAj8"
-        },
-        {
-          "name": "Worldline",
-          "version": "6.3.4",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1NQf5N0AbGui3OCL-SoadNuy_gr1Hmn6_"
-        },
-        {
-          "name": "Worldline",
-          "version": "6.3.3",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1cXjTJFtlilDqvm0WD88-cp-osMClc5l6"
-        },
-        {
-          "name": "Worldline",
-          "version": "8.4.7",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1uYjdDeVJR1xyjBaGQKely1BfV-viFj1K"
-        },
-        {
           "name": "Cardlink POSsible",
-          "version": "8.4.5",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1yknTfeFQfS02rFEKWwZFCpP6s3Kvbfyy"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "8.2.7",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1wDU1KSYTpY0jpree277gnCm6ie3esPg6"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.5.5",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1a6ZdCEF48u9mNTAjkH3FW3gmOwdOvkmy"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.5.2",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1VG2PSsq3X54-la13OgwXLJnj7puYTCff"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.4.2",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1pcaXUlg0B_Obb_8Ni-S2IRSyd-aFYRKU"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.2.5",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1IwFtOCot2IINRnB4wUoyPvJVKR7Ly4Jh"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.2.2",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=17U6OrDBWXWUwvYnrbwlp-jR63BJsOn0i"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.1.7",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1ndo5H4SRWUTw8HdHS_t9V5U-x_zCOf77"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.0.4",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1PLF5PrOlZ5NW2IzsqF8LlPTZMO2Ou9uV"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.0.3",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1WS820AJ3rjP5dzElg3nRU1KWhNzDx1oQ"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "6.3.4",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1hKHe5RQTqZ3eX4qIpJR34Re30ViQzozB"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "6.3.3",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1aLTLZS1cDHQOwog7M-mEiHveXvGPxm90"
+          "version": "4.3.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1rh8UPlNjnxpvAyy49b5TvNSqHt6txJE7"
         },
         {
           "name": "Cardlink POSsible",
@@ -1617,8 +1489,128 @@
         },
         {
           "name": "Cardlink POSsible",
-          "version": "4.3.2",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1rh8UPlNjnxpvAyy49b5TvNSqHt6txJE7"
+          "version": "6.3.3",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1aLTLZS1cDHQOwog7M-mEiHveXvGPxm90"
+        },
+        {
+          "name": "Worldline",
+          "version": "6.3.3",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1cXjTJFtlilDqvm0WD88-cp-osMClc5l6"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "6.3.4",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1hKHe5RQTqZ3eX4qIpJR34Re30ViQzozB"
+        },
+        {
+          "name": "Worldline",
+          "version": "6.3.4",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1NQf5N0AbGui3OCL-SoadNuy_gr1Hmn6_"
+        },
+        {
+          "name": "Worldline",
+          "version": "6.4.0",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1Ct8Mic-UBvA-gBztSw-2f4mFt3B7aAj8"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.0.3",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1WS820AJ3rjP5dzElg3nRU1KWhNzDx1oQ"
+        },
+        {
+          "name": "Worldline",
+          "version": "7.0.3",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=14xTtqHZ6dyJUik58sZKV3Kn9dQMeZmgO"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.0.4",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1PLF5PrOlZ5NW2IzsqF8LlPTZMO2Ou9uV"
+        },
+        {
+          "name": "Worldline",
+          "version": "7.0.4",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1uOUj-bhPgPKwr_dhhvyeRdxMujlAWTMj"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.1.7",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1ndo5H4SRWUTw8HdHS_t9V5U-x_zCOf77"
+        },
+        {
+          "name": "Worldline",
+          "version": "7.1.7",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=16EKOXIFr_-uAr8g-JsX6RvI4aC79hfcy"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.2.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=17U6OrDBWXWUwvYnrbwlp-jR63BJsOn0i"
+        },
+        {
+          "name": "Worldline",
+          "version": "7.2.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1Uuk9T7CrJdpzEKCAjswQ5zh7X0vw6di9"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.2.5",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1IwFtOCot2IINRnB4wUoyPvJVKR7Ly4Jh"
+        },
+        {
+          "name": "Worldline",
+          "version": "7.2.5",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1LM72TBkpRKRLFLje__nZaPul-iFdhDqS"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.4.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1pcaXUlg0B_Obb_8Ni-S2IRSyd-aFYRKU"
+        },
+        {
+          "name": "Worldline",
+          "version": "7.4.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1CkpTG5PAL1GYAyvzMtblMKyRmdI1YFrJ"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.5.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1VG2PSsq3X54-la13OgwXLJnj7puYTCff"
+        },
+        {
+          "name": "Worldline",
+          "version": "7.5.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1yxXti7EXYPDKOS_DOkZdj0clTDcyEUMv"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.5.5",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1a6ZdCEF48u9mNTAjkH3FW3gmOwdOvkmy"
+        },
+        {
+          "name": "Worldline",
+          "version": "7.5.5",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1SMTAYbZz7TjpiKOCL7_Ltn6syWwBkTOM"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "8.2.7",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1wDU1KSYTpY0jpree277gnCm6ie3esPg6"
+        },
+        {
+          "name": "Worldline",
+          "version": "8.2.7",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1mFUUqHblehJDL7jf26QNzpwByMQ0PDhi"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "8.4.5",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1yknTfeFQfS02rFEKWwZFCpP6s3Kvbfyy"
+        },
+        {
+          "name": "Worldline",
+          "version": "8.4.5",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1wDU1KSYTpY0jpree277gnCm6ie3esPg6"
         },
         {
           "name": "Cardlink POSsible",
@@ -1626,14 +1618,19 @@
           "downloadUrl": "https://drive.google.com/uc?export=download&id=1hhmIte76DL-rdVaK5SAUvtP0QuF3stD1"
         },
         {
-          "name": "MAXSTORE",
-          "version": "v8.5.0",
-          "downloadUrl": "https://example.com/downloads/a920pro/apk/maxstore-8.5.0.apk"
+          "name": "Worldline",
+          "version": "8.4.7",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1uYjdDeVJR1xyjBaGQKely1BfV-viFj1K"
         },
         {
           "name": "KeyInject",
           "version": "KeyInject.apk",
           "downloadUrl": "https://example.com/downloads/a920pro/apk/keyinject.apk"
+        },
+        {
+          "name": "MAXSTORE",
+          "version": "v8.5.0",
+          "downloadUrl": "https://example.com/downloads/a920pro/apk/maxstore-8.5.0.apk"
         },
         {
           "name": "NeptuneService",
@@ -1662,8 +1659,7 @@
       ]
     },
     "keyTestMenu": "Key Test Menu(pass: 666666)",
-    "protocol": "IK(IL) Protocol / DUKPT / USB DEV (TYPE C OTG to MINI USB)",
-    "eraseKeyInjection": "Method to erase key injection data for A920 Pro"
+    "protocol": "IK(IL) Protocol / DUKPT / USB DEV (TYPE C OTG to MINI USB)"
   },
   "sp20": {
     "name": "SP20",
@@ -1680,14 +1676,14 @@
       ],
       "firmware": [
         {
-          "name": "SP20 Monitor Release",
-          "version": "V4.12_20210425",
-          "downloadUrl": "https://example.com/downloads/sp20/firmware/SP20_Monitor_Release_20210425_V4.12_SIG.bin"
-        },
-        {
           "name": "EasyLink Lite SP20V4",
           "version": "v1.13.07W_20240207",
           "downloadUrl": "https://example.com/downloads/sp20/firmware/EasyLink_Lite_v1.13.07W_SP20V4_NO_JCB_PURE_20240207_sign.bin"
+        },
+        {
+          "name": "SP20 Monitor Release",
+          "version": "V4.12_20210425",
+          "downloadUrl": "https://example.com/downloads/sp20/firmware/SP20_Monitor_Release_20210425_V4.12_SIG.bin"
         },
         {
           "name": "west&greek",
@@ -1754,63 +1750,8 @@
       "apk": [
         {
           "name": "Cardlink POSsible",
-          "version": "8.4.5",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1yknTfeFQfS02rFEKWwZFCpP6s3Kvbfyy"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "8.2.7",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1wDU1KSYTpY0jpree277gnCm6ie3esPg6"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.5.5",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1a6ZdCEF48u9mNTAjkH3FW3gmOwdOvkmy"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.5.2",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1VG2PSsq3X54-la13OgwXLJnj7puYTCff"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.4.2",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1pcaXUlg0B_Obb_8Ni-S2IRSyd-aFYRKU"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.2.5",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1IwFtOCot2IINRnB4wUoyPvJVKR7Ly4Jh"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.2.2",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=17U6OrDBWXWUwvYnrbwlp-jR63BJsOn0i"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.1.7",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1ndo5H4SRWUTw8HdHS_t9V5U-x_zCOf77"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.0.4",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1PLF5PrOlZ5NW2IzsqF8LlPTZMO2Ou9uV"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "7.0.3",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1WS820AJ3rjP5dzElg3nRU1KWhNzDx1oQ"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "6.3.4",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1hKHe5RQTqZ3eX4qIpJR34Re30ViQzozB"
-        },
-        {
-          "name": "Cardlink POSsible",
-          "version": "6.3.3",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1aLTLZS1cDHQOwog7M-mEiHveXvGPxm90"
+          "version": "4.3.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1rh8UPlNjnxpvAyy49b5TvNSqHt6txJE7"
         },
         {
           "name": "Cardlink POSsible",
@@ -1819,13 +1760,73 @@
         },
         {
           "name": "Cardlink POSsible",
-          "version": "4.3.2",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1rh8UPlNjnxpvAyy49b5TvNSqHt6txJE7"
+          "version": "6.3.3",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1aLTLZS1cDHQOwog7M-mEiHveXvGPxm90"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "6.3.4",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1hKHe5RQTqZ3eX4qIpJR34Re30ViQzozB"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.0.3",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1WS820AJ3rjP5dzElg3nRU1KWhNzDx1oQ"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.0.4",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1PLF5PrOlZ5NW2IzsqF8LlPTZMO2Ou9uV"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.1.7",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1ndo5H4SRWUTw8HdHS_t9V5U-x_zCOf77"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.2.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=17U6OrDBWXWUwvYnrbwlp-jR63BJsOn0i"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.2.5",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1IwFtOCot2IINRnB4wUoyPvJVKR7Ly4Jh"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.4.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1pcaXUlg0B_Obb_8Ni-S2IRSyd-aFYRKU"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.5.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1VG2PSsq3X54-la13OgwXLJnj7puYTCff"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.5.5",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1a6ZdCEF48u9mNTAjkH3FW3gmOwdOvkmy"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "8.2.7",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1wDU1KSYTpY0jpree277gnCm6ie3esPg6"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "8.4.5",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1yknTfeFQfS02rFEKWwZFCpP6s3Kvbfyy"
         },
         {
           "name": "Cardlink POSsible",
           "version": "8.4.7",
           "downloadUrl": "https://drive.google.com/uc?export=download&id=1hhmIte76DL-rdVaK5SAUvtP0QuF3stD1"
+        },
+        {
+          "name": "PDMPlay",
+          "version": "V1.01.01-505",
+          "downloadUrl": "https://example.com/downloads/sk700/apk/pdmplay-v1.01.01-505.apk"
         },
         {
           "name": "Cardlink Q10A IM30",
@@ -1835,23 +1836,18 @@
           "name": "KeyInject New Version",
           "version": "apk",
           "downloadUrl": "https://example.com/downloads/sk700/apk/keyinject-new-version.apk"
-        },
-        {
-          "name": "PDMPlay",
-          "version": "V1.01.01-505",
-          "downloadUrl": "https://example.com/downloads/sk700/apk/pdmplay-v1.01.01-505.apk"
         }
       ],
       "firmware": [
         {
-          "name": "PayDroid 10.0.0 Acacia",
-          "version": "V13.1.12_20230625",
-          "downloadUrl": "https://example.com/downloads/sk700/firmware/SKEA_PayDroid_10.0.0_Acacia_V13.1.12_20230625.paydroid"
-        },
-        {
           "name": "PayDroid 7.1.1 Taurus IM30",
           "version": "V05.3.36_20240228",
           "downloadUrl": "https://example.com/downloads/sk700/firmware/IM30_A80_PayDroid_7.1.1_Taurus_V05.3.36_20240228_Release.paydroid"
+        },
+        {
+          "name": "PayDroid 10.0.0 Acacia",
+          "version": "V13.1.12_20230625",
+          "downloadUrl": "https://example.com/downloads/sk700/firmware/SKEA_PayDroid_10.0.0_Acacia_V13.1.12_20230625.paydroid"
         }
       ],
       "manual": [
@@ -1863,7 +1859,164 @@
       ]
     },
     "keyTestMenu": "Key Test Menu(pass: 666666)",
-    "protocol": "USB Type A σε USB Type A -> που θα καταλήγει στο USB OTG - Mini USB του S80.",
-    "eraseKeyInjection": "Method to erase key injection data for SK700"
+    "protocol": "USB Type A σε USB Type A -> που θα καταλήγει στο USB OTG - Mini USB του S80."
+  },
+  "MASS": {
+    "name": "MASS",
+    "enabled": true,
+    "imgUrl": "https://example.com/images/mass.png",
+    "description": "Massive APK deployment",
+    "categories": {
+      "apk": [
+        {
+          "name": "Cardlink POSsible",
+          "version": "4.3.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1rh8UPlNjnxpvAyy49b5TvNSqHt6txJE7"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "4.6.1",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1rh8UPlNjnxpvAyy49b5TvNSqHt6txJE7"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "6.3.3",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1aLTLZS1cDHQOwog7M-mEiHveXvGPxm90"
+        },
+        {
+          "name": "Worldline",
+          "version": "6.3.3",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1cXjTJFtlilDqvm0WD88-cp-osMClc5l6"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "6.3.4",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1hKHe5RQTqZ3eX4qIpJR34Re30ViQzozB"
+        },
+        {
+          "name": "Worldline",
+          "version": "6.3.4",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1NQf5N0AbGui3OCL-SoadNuy_gr1Hmn6_"
+        },
+        {
+          "name": "Worldline",
+          "version": "6.4.0",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1Ct8Mic-UBvA-gBztSw-2f4mFt3B7aAj8"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.0.3",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1WS820AJ3rjP5dzElg3nRU1KWhNzDx1oQ"
+        },
+        {
+          "name": "Worldline",
+          "version": "7.0.3",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=14xTtqHZ6dyJUik58sZKV3Kn9dQMeZmgO"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.0.4",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1PLF5PrOlZ5NW2IzsqF8LlPTZMO2Ou9uV"
+        },
+        {
+          "name": "Worldline",
+          "version": "7.0.4",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1uOUj-bhPgPKwr_dhhvyeRdxMujlAWTMj"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.1.7",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1ndo5H4SRWUTw8HdHS_t9V5U-x_zCOf77"
+        },
+        {
+          "name": "Worldline",
+          "version": "7.1.7",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=16EKOXIFr_-uAr8g-JsX6RvI4aC79hfcy"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.2.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=17U6OrDBWXWUwvYnrbwlp-jR63BJsOn0i"
+        },
+        {
+          "name": "Worldline",
+          "version": "7.2.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1Uuk9T7CrJdpzEKCAjswQ5zh7X0vw6di9"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.2.5",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1IwFtOCot2IINRnB4wUoyPvJVKR7Ly4Jh"
+        },
+        {
+          "name": "Worldline",
+          "version": "7.2.5",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1LM72TBkpRKRLFLje__nZaPul-iFdhDqS"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.4.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1pcaXUlg0B_Obb_8Ni-S2IRSyd-aFYRKU"
+        },
+        {
+          "name": "Worldline",
+          "version": "7.4.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1CkpTG5PAL1GYAyvzMtblMKyRmdI1YFrJ"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.5.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1VG2PSsq3X54-la13OgwXLJnj7puYTCff"
+        },
+        {
+          "name": "Worldline",
+          "version": "7.5.2",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1yxXti7EXYPDKOS_DOkZdj0clTDcyEUMv"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "7.5.5",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1a6ZdCEF48u9mNTAjkH3FW3gmOwdOvkmy"
+        },
+        {
+          "name": "Worldline",
+          "version": "7.5.5",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1SMTAYbZz7TjpiKOCL7_Ltn6syWwBkTOM"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "8.2.7",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1wDU1KSYTpY0jpree277gnCm6ie3esPg6"
+        },
+        {
+          "name": "Worldline",
+          "version": "8.2.7",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1mFUUqHblehJDL7jf26QNzpwByMQ0PDhi"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "8.4.5",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1yknTfeFQfS02rFEKWwZFCpP6s3Kvbfyy"
+        },
+        {
+          "name": "Worldline",
+          "version": "8.4.5",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1wDU1KSYTpY0jpree277gnCm6ie3esPg6"
+        },
+        {
+          "name": "Cardlink POSsible",
+          "version": "8.4.7",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1hhmIte76DL-rdVaK5SAUvtP0QuF3stD1"
+        },
+        {
+          "name": "Worldline",
+          "version": "8.4.7",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1uYjdDeVJR1xyjBaGQKely1BfV-viFj1K"
+        }
+      ]
+    },
+    "keyTestMenu": "N/A",
+    "protocol": "N/A",
+    "imgUrl": "https://example.com/images/mass.png"
   }
 }
