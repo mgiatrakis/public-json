@@ -383,7 +383,7 @@
         }
       ]
     },
-    "keyTestMenu": "Key Test Menu(pass: 666666)",
+    "keyTestMenu": "PASSWORD: 666666",
     "protocol": "IK(IL) Protocol / DUKPT / USB DEV (MICRO OTG to MINI USB)"
   },
   "d200": {
@@ -445,7 +445,7 @@
       ],
       "firmware": []
     },
-    "keyTestMenu": "Key Test Menu(pass: 666666)",
+    "keyTestMenu": "PASSWORD: 666666",
     "protocol": "EL Protocol / DUKPT (TIK 1) / MICRO OTG to MINI USB"
   },
   "e800": {
@@ -576,7 +576,7 @@
         }
       ]
     },
-    "keyTestMenu": "Key Test Menu(pass: 666666)",
+    "keyTestMenu": "PASSWORD: 666666",
     "protocol": "EL Protocol / DUKPT (TIK 1) / USB DEV (S80) / MICRO OTG to MINI USB"
   },
   "a910": {
@@ -762,7 +762,7 @@
         }
       ]
     },
-    "keyTestMenu": "Key Test Menu(pass: 666666)",
+    "keyTestMenu": "PASSWORD: 666666",
     "protocol": "IK(IL) Protocol / DUKPT / USB DEV (TYPE C OTG to MINI USB)"
   },
   "e700": {
@@ -1116,7 +1116,7 @@
         }
       ]
     },
-    "keyTestMenu": "Key Test Menu(pass: 666666)",
+    "keyTestMenu": "PASSWORD: 666666",
     "protocol": "IK(IL) Protocol / DUKPT / USB DEV (TYPE C OTG to MINI USB)"
   },
   "a77": {
@@ -1232,7 +1232,7 @@
         }
       ]
     },
-    "keyTestMenu": "Key Test Menu(pass: 666666)",
+    "keyTestMenu": "PASSWORD: 666666",
     "protocol": "IK(IL) Protocol / DUKPT / USB DEV (TYPE C OTG to MINI USB)"
   },
   "im30": {
@@ -1348,7 +1348,7 @@
         }
       ]
     },
-    "keyTestMenu": "Key Test Menu(pass: 666666)",
+    "keyTestMenu": "PASSWORD: 666666",
     "protocol": "IK(IL) Protocol / DUKPT / USB DEV (TYPE C OTG to MINI USB)"
   },
   "e500": {
@@ -1653,7 +1653,7 @@
         }
       ]
     },
-    "keyTestMenu": "Key Test Menu(pass: 666666)",
+    "keyTestMenu": "PASSWORD: 666666",
     "protocol": "IK(IL) Protocol / DUKPT / USB DEV (TYPE C OTG to MINI USB)"
   },
   "sp20": {
@@ -1853,14 +1853,14 @@
         }
       ]
     },
-    "keyTestMenu": "Key Test Menu(pass: 666666)",
+    "keyTestMenu": "PASSWORD: 666666",
     "protocol": "USB Type A σε USB Type A -> που θα καταλήγει στο USB OTG - Mini USB του S80."
   },
   "MASS": {
     "name": "MASS",
     "enabled": true,
     "imgUrl": "https://example.com/images/mass.png",
-    "description": "Massive APK deployment",
+    "description": "For all models for MASS merchants",
     "categories": {
       "apk": [
         {
