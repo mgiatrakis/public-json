@@ -2,67 +2,176 @@
   "a920pro": {
     "name": "A920Pro",
     "enabled": true,
-    "imgUrl": "https://...",
+    "imgUrl": "https://example.com/images/a920pro.png",
     "categories": {
-      "apk": {
-        "name": "apkName",
-        "version": "1.5",
-        "downloadUrl": "https://..."
-      },
-      "firmware": {
-        "name": "firmwareName",
-        "version": "11.5",
-        "downloadUrl": "https://..."
-      },
-      "manual": {
-        "name": "manualName",
-        "version": "1.0",
-        "downloadUrl": "https://..."
-      }
+      "apk": [
+        {
+          "name": "A920Pro Application",
+          "version": "2.5.0",
+          "downloadUrl": "https://example.com/downloads/a920pro/apk/v2.5.0/app.apk"
+        },
+        {
+          "name": "A920Pro Application",
+          "version": "2.4.1",
+          "downloadUrl": "https://example.com/downloads/a920pro/apk/v2.4.1/app.apk"
+        },
+        {
+          "name": "A920Pro Application",
+          "version": "2.4.0",
+          "downloadUrl": "https://example.com/downloads/a920pro/apk/v2.4.0/app.apk"
+        },
+        {
+          "name": "A920Pro Application",
+          "version": "2.3.0",
+          "downloadUrl": "https://example.com/downloads/a920pro/apk/v2.3.0/app.apk"
+        }
+      ],
+      "firmware": [
+        {
+          "name": "A920Pro Firmware",
+          "version": "11.5.2",
+          "downloadUrl": "https://example.com/downloads/a920pro/firmware/v11.5.2/firmware.bin"
+        },
+        {
+          "name": "A920Pro Firmware",
+          "version": "11.5.1",
+          "downloadUrl": "https://example.com/downloads/a920pro/firmware/v11.5.1/firmware.bin"
+        },
+        {
+          "name": "A920Pro Firmware",
+          "version": "11.5.0",
+          "downloadUrl": "https://example.com/downloads/a920pro/firmware/v11.5.0/firmware.bin"
+        }
+      ],
+      "manual": [
+        {
+          "name": "A920Pro User Manual",
+          "version": "3.0",
+          "downloadUrl": "https://example.com/downloads/a920pro/manual/v3.0/manual.pdf"
+        },
+        {
+          "name": "A920Pro User Manual",
+          "version": "2.5",
+          "downloadUrl": "https://example.com/downloads/a920pro/manual/v2.5/manual.pdf"
+        }
+      ]
     }
   },
   "a920": {
     "name": "A920",
     "enabled": true,
-    "imgUrl": "https://...",
+    "imgUrl": "https://example.com/images/a920.png",
     "categories": {
-      "apk": {
-        "name": "apkNameA920",
-        "version": "1.0",
-        "downloadUrl": "https://..."
-      },
-      "firmware": {
-        "name": "firmwareA920",
-        "version": "10.0",
-        "downloadUrl": "https://..."
-      },
-      "manual": {
-        "name": "manualA920",
-        "version": "1.0",
-        "downloadUrl": "https://..."
-      }
+      "apk": [
+        {
+          "name": "A920 Application",
+          "version": "1.8.0",
+          "downloadUrl": "https://example.com/downloads/a920/apk/v1.8.0/app.apk"
+        },
+        {
+          "name": "A920 Application",
+          "version": "1.7.5",
+          "downloadUrl": "https://example.com/downloads/a920/apk/v1.7.5/app.apk"
+        },
+        {
+          "name": "A920 Application",
+          "version": "1.7.0",
+          "downloadUrl": "https://example.com/downloads/a920/apk/v1.7.0/app.apk"
+        }
+      ],
+      "firmware": [
+        {
+          "name": "A920 Firmware",
+          "version": "10.2.1",
+          "downloadUrl": "https://example.com/downloads/a920/firmware/v10.2.1/firmware.bin"
+        },
+        {
+          "name": "A920 Firmware",
+          "version": "10.2.0",
+          "downloadUrl": "https://example.com/downloads/a920/firmware/v10.2.0/firmware.bin"
+        },
+        {
+          "name": "A920 Firmware",
+          "version": "10.1.5",
+          "downloadUrl": "https://example.com/downloads/a920/firmware/v10.1.5/firmware.bin"
+        }
+      ],
+      "manual": [
+        {
+          "name": "A920 User Manual",
+          "version": "2.0",
+          "downloadUrl": "https://example.com/downloads/a920/manual/v2.0/manual.pdf"
+        },
+        {
+          "name": "A920 User Manual",
+          "version": "1.5",
+          "downloadUrl": "https://example.com/downloads/a920/manual/v1.5/manual.pdf"
+        }
+      ]
     }
   },
   "im30": {
     "name": "IM30",
     "enabled": true,
-    "imgUrl": "https://...",
+    "imgUrl": "https://example.com/images/im30.png",
     "categories": {
-      "apk": {
-        "name": "apkNameIM30",
-        "version": "2.0",
-        "downloadUrl": "https://..."
-      },
-      "firmware": {
-        "name": "firmwareIM30",
-        "version": "12.0",
-        "downloadUrl": "https://..."
-      },
-      "manual": {
-        "name": "manualIM30",
-        "version": "1.0",
-        "downloadUrl": "https://..."
-      }
+      "apk": [
+        {
+          "name": "IM30 Unattended Application",
+          "version": "3.2.0",
+          "downloadUrl": "https://example.com/downloads/im30/apk/v3.2.0/app.apk"
+        },
+        {
+          "name": "IM30 Unattended Application",
+          "version": "3.1.5",
+          "downloadUrl": "https://example.com/downloads/im30/apk/v3.1.5/app.apk"
+        },
+        {
+          "name": "IM30 Unattended Application",
+          "version": "3.1.0",
+          "downloadUrl": "https://example.com/downloads/im30/apk/v3.1.0/app.apk"
+        },
+        {
+          "name": "IM30 Unattended Application",
+          "version": "3.0.0",
+          "downloadUrl": "https://example.com/downloads/im30/apk/v3.0.0/app.apk"
+        }
+      ],
+      "firmware": [
+        {
+          "name": "IM30 Firmware",
+          "version": "12.3.1",
+          "downloadUrl": "https://example.com/downloads/im30/firmware/v12.3.1/firmware.bin"
+        },
+        {
+          "name": "IM30 Firmware",
+          "version": "12.3.0",
+          "downloadUrl": "https://example.com/downloads/im30/firmware/v12.3.0/firmware.bin"
+        },
+        {
+          "name": "IM30 Firmware",
+          "version": "12.2.5",
+          "downloadUrl": "https://example.com/downloads/im30/firmware/v12.2.5/firmware.bin"
+        }
+      ],
+      "manual": [
+        {
+          "name": "IM30 User Manual",
+          "version": "4.0",
+          "downloadUrl": "https://example.com/downloads/im30/manual/v4.0/manual.pdf"
+        },
+        {
+          "name": "IM30 User Manual",
+          "version": "3.5",
+          "downloadUrl": "https://example.com/downloads/im30/manual/v3.5/manual.pdf"
+        },
+        {
+          "name": "IM30 User Manual",
+          "version": "3.0",
+          "downloadUrl": "https://example.com/downloads/im30/manual/v3.0/manual.pdf"
+        }
+      ]
     }
   }
 }
+
