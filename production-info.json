@@ -6,6 +6,11 @@
     "description": "PayDroid / 4G + WiFi + Bluetooth",
     "categories": {
       "apk": [
+         {
+          "name": "Cardlink POSsible",
+          "version": "1.0.0",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1rh8UPlNjnxpvAyy49b5TvNSqHt6txJE7"
+        },
         {
           "name": "Cardlink POSsible",
           "version": "4.3.2",
